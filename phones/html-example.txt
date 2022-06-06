@@ -1,0 +1,1409 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/ -->
+<html lang="ru-RU" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">#ibox {z-index:1000000;text-align:left;} #ibox_overlay {z-index:1000000;} #ibox_loading {position:absolute;z-index:1000001;} #ibox_wrapper {margin:30px;position:absolute;top:0;left:0;z-index:1000001;} #ibox_content {z-index:1000002;margin:27px 5px 5px 5px;padding:2px;} #ibox_content object {display:block;} #ibox_content .ibox_image {width:100%;height:100%;margin:0;padding:0;border:0;display:block;} #ibox_footer_wrapper a {float:right;display:block;outline:0;margin:0;padding:0;} #ibox_footer_wrapper {text-align:left;position:absolute;top:5px;right:5px;left:5px;white-space:nowrap;overflow:hidden;}</style><style type="text/css">#ibox_footer_wrapper {font-weight:bold;height:20px;line-height:20px;} #ibox_footer_wrapper a {text-decoration:none;background:#888;border:1px solid #666;line-height:16px;padding:0 5px;color:#333;font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:10px;} #ibox_footer_wrapper a:hover {background-color:#bbb;color:#111;} #ibox_footer_wrapper {font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#111;} #ibox_wrapper {border:1px solid #ccc;} #ibox_wrapper {background-color:#999;}#ibox_content {background-color:#eee;border:1px solid #666;} #ibox_loading {padding:50px; background:#000;color:#fff;font-size:16px;font-weight:bold;}</style>
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    ``
+    <![endif]-->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link rel="profile" href="http://gmpg.org/xfn/11">
+    <!-- Theme Css -->
+	    <link rel="shortcut icon" href="https://www.chestnoc.com/wp-content/uploads/chestnoc_logo_v1_16x16.png">
+    
+<!-- template_name: header_dns_prefetch.tpl: -->
+<link rel="dns-prefetch" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/cdn.userway.org">
+<link rel="dns-prefetch" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/api.userway.org">
+<link rel="preload" href="https://cdn.userway.org/widget.js" as="script">
+<!-- /template_name: header_dns_prefetch.tpl -->
+<link rel="stylesheet" id="pgafu-public-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/pgafu-public.css" type="text/css" media="all"><style type="text/css" media="all" id="header_custom_scripts_style">
+@import url(/js/sticky_div/sticky_div.css);
+.cursor_pointer{cursor:pointer;cursor:hand}
+.strike{text-decoration:line-through !important}
+#ajaxsearchlite1{border:2px solid #000;border-radius:12px;padding:2px}
+#ajaxsearchlite1:hover{border:2px solid #FF8E30;border-radius:12px;padding:2px}
+#arrow-25-icon, #ajaxsearchlite1 .prosettings{color:#FF8E30}
+
+.fake_link, .onclick_show_original{color:#FF8E30 !important;cursor:pointer;text-decoration:none}
+.fake_link, .onclick_show_original:hover{color:#FF8E30 !important;cursor:pointer;text-decoration:none}
+
+/* sidebar_style: */
+.qua_si900debar_widget,.widget{margin-bottom:30px;margin-top:0;overflow:hidden;padding:20px 20px 15px 20px}
+.qua_si900debar_widget_title{margin-bottom:10px}
+.qua_si900debar_widget_title h2{color:#121212}
+.qua_si900debar_widget_title h2, .widgettitle{font-size:20px;margin: 0 0 10px;word-wrap: break-word;font-family:'Open Sans';font-weight:600}
+.qua_si900debar_widget_title h2 , h2.widgettitle{color: #121212}
+.qua_si900debar_widget, .widget{border:2px solid #e9e9e9}
+.qua_si900debar_link p , .widget ul li ,.qua_si900debar_widget ul li{border-bottom:1px solid #dedede}
+.widgetul, .qua_si900debar_widget ul{list-style:none;padding-left:0}
+.widget ul li:before , .qua_si900debar_widget ul li:before{font-family:'FontAwesome';content:'\f105';margin-right:5px}
+.qua_si900debar_widget .textwidget{font-family:'Open Sans';font-weight:400;font-size: 15px;line-height: 22px;margin-bottom: 5px;margin-top: 0px;word-wrap: break-word;color: #6a6a6a}
+.qua_si900debar_widget ul li:last-child ,.widget ul li:last-child{border-bottom:none}
+.qua_si900debar_widget #searchsubmit{background-color:#f8504b}
+.qua_si900debar_widget ul li a:hover{color:#F8504B}
+.qua_si900debar_widget ul li a{color:#6A6A6A}
+.qua_si900debar_widget li.recentcomments{color:#6a6a6a}
+.qua_si900debar_widget .searchform div > label ,.qua_searching .searchform div > label{color: #3B3B3B;display: block;font-family:'Open Sans';font-weight:600;font-size: 22px;font-weight: normal;line-height: 30px}
+.qua_si900debar_widget .searchform div > input{background-color: #FFFFFF;border: 1px solid #C5C5C5;border-radius: 5px;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;color: #555555;display: inline-block;font-size: 14px;height: 40px;line-height: 1.42857;margin-right: 5px;padding: 6px 20px;transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;vertical-align: middle}
+.qua_si900debar_widget .textwidget img{max-width:100%;height:auto}
+.qua_si900debar_widget .textwidget select{max-width:100%}
+/* /sidebar_style */
+
+/* -----@Media Responsive css created by Shahid - Scientech IT-----*/
+/* This Media screen css called for All Quality Pages Element-----*/
+@media only screen and (min-width:768px) and (max-width:1000px){
+.qua_portfolio-column{position:relative;width:48%;display:inline-block;margin-bottom:50px}
+.qua-team-img{padding-left:25%;padding-right:25%;float:none}
+.qua-team-name{text-align:center}
+.qua-team-detail{padding-right:15px;padding-left:10px;text-align:center}
+.qua-team-social{float:none;text-align:center}
+.nav{margin-bottom:30px}
+}
+@media only screen and (min-width:960px) and (max-width:1200px){
+/*Flex Slider Center Alignment*/
+.flex-slider-center{}
+.flex-slider-center h2{font-size:55px;line-height:55px;margin:0px 15% 12px}
+.flex-slider-center span{ margin:0px 0px 12px;padding:0px 15px 5px 15px;font-size:55px;line-height:55px}
+.flex-slider-center p{ padding:0px 15px 0px 15px;font-size:24px;line-height:30px;margin:0px 10% 12px}
+.flex_btn{font-size:16px;line-height:20px;margin-bottom:5px;padding:10px 20px}
+}
+@media only screen and (min-width:768px) and (max-width:959px){
+.qua_callout_area{width:100%;background-color:#f8504b;padding-top:4px;padding-bottom:4px;border-top:3px solid #e53a35;border-bottom:3px solid #e53a35;text-align:center}
+.qua_callout_btn{float:none}
+/*Menus Style*/
+.navbar-toggle{margin-top:20px}
+/*Sidebar Css*/
+.qua-si900debar{margin:50px 0 0}
+/*Flex Slider Center Alignment*/
+.flex-slider-center h2{font-size:36px;line-height:40px;margin:0px 19% 12px}
+.flex-slider-center span{ margin:0px 0px 12px;padding:0px 15px 5px 15px;font-size:36px;line-height:40px}
+.flex-slider-center p{ padding:0px 15px 0px 15px;font-size:18px;line-height:22px;margin:0px 10% 12px}
+.flex_btn{font-size:14px;line-height:20px;margin-bottom:5px;padding:8px 20px}
+}
+@media only screen and (min-width:480px) and (max-width:767px){
+.head-contact-info{margin:8px 0 10px;text-align:center;padding:0px;display:block;float:none}
+.head-contact-social{float:none;text-align:center;margin:0 0  5px;padding:0px}
+.head-contact-social li{height:28px;width:28px}
+.head-contact-social li > a > i{font-size:12px;line-height:1}
+.qua_portfolio-column{position:relative;width:48%;display:inline-block;margin-bottom:50px}
+.media-column{position:relative;width:100%;display:inline-block;border-right:0;border-bottom:1px solid #e5e5e5}
+.qua_portfolio-4col-column{position:relative;width:48%;display:inline-block;margin-bottom:100px}
+.qua_callout_area{width:100%;background-color:#f8504b;padding-top:4px;padding-bottom:4px;border-top:3px solid #e53a35;border-bottom:3px solid #e53a35;text-align:center}
+.qua_callout_btn{float:none}
+/*Homepage Testimonial Pager*/
+.testi-pager{margin-top:60px} 
+/*Menus Style*/
+.navbar-toggle{margin-top:20px}
+.navbar-nav > li:last-child{margin-bottom:15px;margin-right:0}
+.navbar-nav > li > a{border-radius:0px}
+.navbar-collapse.in{overflow:hidden}
+/*Blog Page*/
+.qua_post_date{margin-bottom:10px;margin-left:0;margin-right:2%}
+.qua_post_title_wrapper{width:100%}
+.qua-blog-area .qua-blog-info .qua-blog-date-cm .right{float:right;text-align:right}
+/*Sidebar Css*/
+.qua-si900debar{margin:50px 0 0}
+/*Callout Area */
+.qua_callout_area{padding:20px 0}
+/*Flex Slider Center Alignment*/
+.flex-slider-center h2{font-size:25px;line-height:30px;margin:0px 19% 6px}
+.flex-slider-center span{ margin:0px 0px 6px;padding:0px 15px 5px 15px;font-size:25px;line-height:30px}
+.flex-slider-center p{ padding:0px 10px 0px 10px;font-size:13px;line-height:20px;margin:0px 10% 12px}
+.flex_btn{font-size:11px;line-height:20px;margin-bottom:5px;padding:5px 20px;   
+}
+/* Homepage Testimonials */
+.caroufredsel_wrapper{height:350px !important}
+#qua-testimonial .media-body{float:left}
+/* Comment Section */
+.qua_comment_box .media-body, .qua_comment_box ul.children{float:left}
+} 
+@media only screen and (min-width:200px) and (max-width:480px){
+.head-contact-info{margin:8px 0 10px;text-align:center;padding:0px;display:block;float:none}
+.head-contact-social{float:none;text-align:center;margin:0 0  5px;padding:0px}
+.head-contact-social li{height:28px;width:28px}
+.head-contact-social li > a > i{font-size:12px;line-height:1}
+.qua_portfolio-column{position:relative;width:100%;display:inline-block;margin-bottom:50px}
+.media-column{position:relative;width:100%;display:inline-block;border-right:0;border-bottom:1px solid #e5e5e5}
+.qua_portfolio-2col-column{position:relative;width:100%;display:inline-block;margin-bottom:100px}
+.qua_portfolio-3col-column{position:relative;width:100%;display:inline-block;margin-bottom:100px}
+.qua_portfolio-4col-column{position:relative;width:100%;display:inline-block;margin-bottom:100px}
+.qua_callout_area{width:100%;background-color:#f8504b;padding-top:4px;padding-bottom:4px;border-top:3px solid #e53a35;border-bottom:3px solid #e53a35;text-align:center}
+.qua_callout_btn{float:none}
+.qua-team-img{padding-left:28%;padding-right:25%;float:none}
+.qua-team-name{text-align:center}
+.qua-team-detail{padding-right:15px;padding-left:10px;text-align:center}
+.qua-team-social{float:none;text-align:center}
+/*Homepage Testimonial Pager*/
+.testi-pager{margin-top:60px}
+/*Menus Style*/
+.navbar-toggle{margin-top:20px}
+.navbar-nav > li:last-child{margin-bottom:15px;margin-right:0}
+.navbar-nav > li > a{border-radius:0px}
+.navbar-collapse.in{overflow:hidden}
+/*Blog Page*/
+.qua_post_date{margin-bottom:10px;margin-left:0;margin-right:2%}
+.qua_post_title_wrapper{width:100%}
+.qua-blog-area .qua-blog-info .qua-blog-date-cm .right{float:left}
+/*Sidebar Css*/
+.qua-si900debar{margin:50px 0 0}
+/*Callout Area */
+.qua_callout_area{padding:20px 0}
+/*Flex Slider Center Alignment*/
+.flex-slider-center h2{font-size:16px;line-height:20px;margin:0px 10% 5px}
+.flex-slider-center span{ margin:0px auto 5px;padding:0px 7px 3px 7px;font-size:16px;line-height:20px}
+.flex-slider-center p{ padding:0px 10px 0px 10px;font-size:11px;line-height:18px;margin:0px 10% 12px}
+.flex_btn{font-size:9px;line-height:20px;margin-bottom:5px;padding:5px 10px}
+/* Homepage Testimonials */
+.caroufredsel_wrapper{height:500px !important}
+#qua-testimonial .media-body{float:left}
+/* Comment Section */
+.qua_comment_box .media-body{float:left}
+}
+#sidebar_ads_are_hidden:after{content:"Реклама скрыта."}
+#yasobe_ru_line_1:after{content:"Хотите, чтобы в мире было меньше подделок и обманщиков, а компании боролись за клиентов?"}
+#yasobe_ru_line_2:after{content:"Пожертвуйте на развитие проекта!"} /* Станьте почётным */
+
+@media screen and (max-width:991px){#header_slogan_container,#header_search_form_container{float:left;width:100%}}
+@media screen and (min-width:992px){#header_slogan_container{float:left;width:800px} #header_search_form_container{float:right;width:220px}}
+.qua_comment_detail h3 a, .qua_comment_detail h4 a{font-size:16px}
+.nojs_single_post_rubriki:after{content:"Рубрики:"}
+.qua_post_cats a{color:#FF8E30 !important}
+</style>
+<title>Список злостных SMS-спамеров. Пожаловаться на СМС-спам!</title>
+
+<!-- All in One SEO Pack 2.4.5.1 by Michael Torbert of Semper Fi Web Design[10614,10689] -->
+<link rel="canonical" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/">
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="https://use.fontawesome.com/">
+<link rel="dns-prefetch" href="https://www.google.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="«Честнок»- сайт честных отзывов » Лента" href="https://www.chestnoc.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="«Честнок»- сайт честных отзывов » Лента комментариев" href="https://www.chestnoc.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="«Честнок»- сайт честных отзывов » Лента комментариев к «Список злостных SMS-спамеров»" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/feed/">
+		<script type="text/javascript" async="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/recaptcha__ru.js.Без названия" crossorigin="anonymous" integrity="sha384-phHyiO71DTETZXxEyoVsrcN0wWdmShNErvaY8+6U2AJEnypP5VkEiU1LYTPjxmmu"></script><script type="text/javascript" async="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/watch.js.Без названия"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chestnoc.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wp-emoji-release.min.js.Без названия" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="codesnippet-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/idea.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpa-css-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wpa.css" type="text/css" media="all">
+<link rel="stylesheet" id="pgafu-public-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/pgafu-public.css" type="text/css" media="all">
+<link rel="stylesheet" id="uab-frontend-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="uab-frontend-responsive-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/uab-responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="uab-fontawesome-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/all.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="url-shortify-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/url-shortify.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpel-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wpel.css" type="text/css" media="all">
+<link rel="stylesheet" id="yasrcss-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/yasr.css" type="text/css" media="all">
+<style id="yasrcss-inline-css" type="text/css">
+
+		.rateit .rateit-range {
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/star.png) left 0px !important;
+		}
+
+		.rateit .rateit-hover {
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/star.png) left -21px !important;
+		}
+
+		.rateit .rateit-selected {
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/star.png) left -42px !important;
+		}
+
+		div.medium .rateit-range {
+			/*White*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars24.png) left 0px !important;
+		}
+
+		div.medium .rateit-hover {
+			/*Red*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars24.png) left -29px !important;
+		}
+
+		div.medium .rateit-selected {
+			/*Yellow*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars24.png) left -58px !important;
+		}
+
+		/* Creating set 32 */
+
+		div.bigstars .rateit-range {
+			/*White*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars32.png) left 0px !important;
+		}
+
+		div.bigstars .rateit-hover{
+			/*red*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars32.png) left -37px !important;
+		}
+
+		div.bigstars .rateit-selected
+		{
+			/*Gold*/
+			background: url(/wp-content/plugins/yet-another-stars-rating/img/stars32.png) left -74px !important;
+		}
+
+	
+</style>
+<link rel="stylesheet" id="jquery-ui-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/jquery-ui.css" type="text/css" media="all">
+<link rel="stylesheet" id="yasrcsslightscheme-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/yasr-table-light.css" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="default-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/default.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-menu-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/theme-menu.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="quality-style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="media-responsive-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/media-responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-min-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="quality-fonts-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="wpdreams-asl-basic-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/style.basic.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpdreams-ajaxsearchlite-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/style-underline.css" type="text/css" media="all">
+<link rel="stylesheet" id="rpt_front_style-css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/front.css" type="text/css" media="all">
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/jquery.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/jquery-migrate.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/highlight.pack.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/all.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/frontend.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/url-shortify.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/menu.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/bootstrap.min.js.Без названия"></script>
+<link rel="https://api.w.org/" href="https://www.chestnoc.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chestnoc.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chestnoc.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Отзыв: ГАЗЕЛЬКИН плевать хотел на вас!" href="https://www.chestnoc.com/otzivy/o_kompanii_gazelkin/o_kompanii_gazelkin_ot_avtora_andrews32/">
+<link rel="next" title="Отзывы про интернет-магазин outlet-mobile.ru" href="https://www.chestnoc.com/otzivy/pro_internet_magazin_outlet_mobile_ru/">
+<link rel="alternate" type="application/json+oembed" href="https://www.chestnoc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chestnoc.com%2Fsms-spam%2Fspisok-zlostnyh-sms-spamerov%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.chestnoc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chestnoc.com%2Fsms-spam%2Fspisok-zlostnyh-sms-spamerov%2F&amp;format=xml">
+	<script type="text/javascript">
+		jQuery(function($){
+			$('.comment-reply-link').click(function(e){
+				e.preventDefault();
+				CKEDITOR.instances.comment.destroy();
+				addComment.moveForm.apply( addComment );
+				CKEDITOR.replace( "comment" );
+			});
+		});
+	</script>
+	                <link href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/css(2)" rel="stylesheet" type="text/css">
+                		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->      <style>
+      #related_posts_thumbnails li{
+          border-right: 1px solid #dddddd;
+          background-color: #ffffff      }
+      #related_posts_thumbnails li:hover{
+          background-color: #eeeeee;
+      }
+      .relpost_content{
+          font-size: 12px;
+          color: #333333;
+      }
+      .relpost-block-single{
+          background-color: #ffffff;
+          border-right: 1px solid  #dddddd;
+          border-left: 1px solid  #dddddd;
+          margin-right: -1px;
+      }
+      .relpost-block-single:hover{
+          background-color: #eeeeee;
+      }
+      </style>
+
+  <style type="text/css">.grecaptcha-badge {display:none !important} /*, .grecaptcha-logo, .rc-anchor-invisible-text*/</style>                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgb(42, 204, 19);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+                                -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            <link rel="icon" href="https://www.chestnoc.com/wp-content/uploads/chestnoc_logo_v1_16x16.png" sizes="32x32">
+<link rel="icon" href="https://www.chestnoc.com/wp-content/uploads/chestnoc_logo_v1_16x16.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.chestnoc.com/wp-content/uploads/chestnoc_logo_v1_16x16.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/chestnoc_logo_v1_16x16.png">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <style>.cke{visibility:hidden;}</style><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/config.js.Без названия"></script><link rel="stylesheet" type="text/css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/editor.css"><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/ru.js.Без названия"></script><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/styles.js.Без названия"></script><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/plugin.js.Без названия"></script><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/plugin.js(1).Без названия"></script><link rel="stylesheet" type="text/css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/tableselection.css"><link rel="stylesheet" type="text/css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wsc.css"><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/ru.js(1).Без названия"></script><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/ru.js(2).Без названия"></script><link rel="stylesheet" type="text/css" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/copyformatting.css"><script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/highlight.pack.js(1).Без названия"></script></head>
+  <body class="post-template-default single single-post postid-63 single-format-standard wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+    <!--Header Logo & Menus-->
+    <div class="container">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <div class="logo pull-left">
+                            <a href="https://www.chestnoc.com/" data-wpel-link="internal"><img src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/chestnoc_logo_v1.png" style="height:80px; width:80px;"></a>
+              			
+            </div>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+            <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-top-menu" class="nav navbar-nav navbar-right"><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a title="Добавить отзыв" href="https://www.chestnoc.com/add/" data-wpel-link="internal">Добавить отзыв</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Обратная связь" href="https://www.chestnoc.com/feedback/" data-wpel-link="internal">Обратная связь</a></li>
+<li id="menu-item-2447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2447 dropdown"><a title="Статьи" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Статьи <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2448"><a title="Для женщин" href="https://www.chestnoc.com/category/statji/dlya_jenshin/" data-wpel-link="internal">Для женщин</a></li>
+</ul>
+</li>
+<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414"><a title="Вход" href="https://www.chestnoc.com/wp-login.php" data-wpel-link="internal">Вход</a></li>
+<li id="menu-item-415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-415"><a title="Регистрация" href="https://www.chestnoc.com/wp-login.php?action=register" data-wpel-link="internal">Регистрация</a></li>
+<li id="menu-item-2567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2567"><a title="Сотрудничество" href="https://www.chestnoc.com/sotrudnichestvo/" data-wpel-link="internal">Сотрудничество</a></li>
+</ul></div>          <!-- /.navbar-collapse div -->
+        </div><!-- /.container-fluid div -->
+		
+		<div id="header_slogan_container">
+		<div id="header_slogan_row_1"><span id="header_site_name_1"></span> «<span id="header_site_name_2"></span>» <span id="header_site_name_3"></span></div><!-- /#header_slogan_container div -->
+		<div id="header_slogan_row_2"><span id="header_slogan_1"></span> <s><span id="header_slogan_2"></span></s> <span id="header_slogan_3"></span> <span id="header_slogan_4"></span></div>
+		<span id="header_slogan_5"></span>
+		</div><!-- /#header_slogan_container -->
+		
+		<div id="header_search_form_container">
+		<div id="ajaxsearchlite1" class="wpdreams_asl_container asl_w asl_m asl_m_1">
+<div class="probox">
+
+    
+    <div class="promagnifier">
+                <div class="innericon">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <path id="magnifier-2-icon" d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+                    C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+                    c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+                    c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+                    z"></path>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class="prosettings" data-opened="0">
+                <div class="innericon">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <polygon id="arrow-25-icon" transform="rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "></polygon>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class="proinput">
+        <form autocomplete="off" title="Ajax serch form">
+            <input title="Search input" type="search" class="orig" name="phrase" placeholder="Поиск по сайту" value="" autocomplete="off">
+            <input title="Autocomplete input, do not use this" type="text" class="autocomplete" name="phrase" value="" autocomplete="off">
+            <span class="loading"></span>
+            <input type="submit" value="Start search" style="width:0; height: 0; visibility: hidden;">
+        </form>
+    </div>
+
+    
+    
+    <div class="proloading">
+
+        <div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+            </div>
+
+            <div class="proclose">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+            <polygon id="x-mark-icon" points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "></polygon>
+        </svg>
+        </div>
+    
+    
+</div>
+</div>
+
+
+
+
+
+
+    <div id="asl_hidden_data">
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="aslblur">
+                <fegaussianblur in="SourceGraphic" stdDeviation="4"></fegaussianblur>
+            </filter>
+        </svg>
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="no_aslblur"></filter>
+        </svg>
+
+    </div>
+
+<div class="asl_init_data wpdreams_asl_data_ct" style="display:none !important;" id="asl_init_id_1" data-asldata="ew0KICAgICJob21ldXJsIjogImh0dHBzOi8vd3d3LmNoZXN0bm9jLmNvbS8iLA0KICAgICJyZXN1bHRzdHlwZSI6ICJ2ZXJ0aWNhbCIsDQogICAgInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsDQogICAgIml0ZW1zY291bnQiOiA0LA0KICAgICJpbWFnZXdpZHRoIjogNzAsDQogICAgImltYWdlaGVpZ2h0IjogNzAsDQogICAgInJlc3VsdGl0ZW1oZWlnaHQiOiAiNzBweCIsDQogICAgInNob3dhdXRob3IiOiAwLA0KICAgICJzaG93ZGF0ZSI6IDAsDQogICAgInNob3dkZXNjcmlwdGlvbiI6IDEsDQogICAgImNoYXJjb3VudCI6ICAyLA0KICAgICJub3Jlc3VsdHN0ZXh0IjogItCd0LXRgiDRgNC10LfRg9C70YzRgtCw0YLQvtCyISIsDQogICAgImRpZHlvdW1lYW50ZXh0IjogItCS0L7Qt9C80L7QttC90L4sINCy0Ysg0LjQvNC10LvQuCDQsiDQstC40LTRgzoiLA0KICAgICJkZWZhdWx0SW1hZ2UiOiAiaHR0cHM6Ly93d3cuY2hlc3Rub2MuY29tL3dwLWNvbnRlbnQvcGx1Z2lucy9hamF4LXNlYXJjaC1saXRlL2ltZy9kZWZhdWx0LmpwZyIsDQogICAgImhpZ2hsaWdodCI6IDEsDQogICAgImhpZ2hsaWdodHdob2xld29yZHMiOiAxLA0KICAgICJzY3JvbGxUb1Jlc3VsdHMiOiAwLA0KICAgICJyZXN1bHRhcmVhY2xpY2thYmxlIjogMSwNCiAgICAiZGVmYXVsdHNlYXJjaHRleHQiOiAi0J/QvtC40YHQuiDQv9C+INGB0LDQudGC0YMiLA0KICAgICJhdXRvY29tcGxldGUiOiB7DQogICAgICAgICJlbmFibGVkIiA6IDAsDQogICAgICAgICJsYW5nIiA6ICJydSINCiAgICB9LA0KICAgICJ0cmlnZ2Vyb250eXBlIjogMSwNCiAgICAidHJpZ2dlcm9uY2xpY2siOiAxLA0KICAgICJyZWRpcmVjdG9uY2xpY2siOiAxLA0KICAgICJ0cmlnZ2VyX29uX2ZhY2V0X2NoYW5nZSI6IDEsDQogICAgInNldHRpbmdzaW1hZ2Vwb3MiOiAicmlnaHQiLA0KICAgICJocmVzdWx0YW5pbWF0aW9uIjogImZ4LW5vbmUiLA0KICAgICJ2cmVzdWx0YW5pbWF0aW9uIjogImZ4LW5vbmUiLA0KICAgICJocmVzdWx0aGlkZWRlc2MiOiAiMSIsDQogICAgInByZXNjb250YWluZXJoZWlnaHQiOiAiNDAwcHgiLA0KICAgICJwc2hvd3N1YnRpdGxlIjogIjAiLA0KICAgICJwc2hvd2Rlc2MiOiAiMSIsDQogICAgImNsb3NlT25Eb2NDbGljayI6IDEsDQogICAgImlpZk5vSW1hZ2UiOiAiZGVzY3JpcHRpb24iLA0KICAgICJpaVJvd3MiOiAyLA0KICAgICJpaXRlbXNXaWR0aCI6IDIwMCwNCiAgICAiaWl0ZW1zSGVpZ2h0IjogMjAwLA0KICAgICJpaXNob3dPdmVybGF5IjogMSwNCiAgICAiaWlibHVyT3ZlcmxheSI6IDEsDQogICAgImlpaGlkZUNvbnRlbnQiOiAxLA0KICAgICJpaWFuaW1hdGlvbiI6ICIxIiwNCiAgICAiYW5hbHl0aWNzIjogMCwNCiAgICAiYW5hbHl0aWNzU3RyaW5nIjogIiIsDQogICAgInJlZGlyZWN0b25jbGljayI6IDEsDQogICAgInJlZGlyZWN0Q2xpY2tUbyI6ICJyZXN1bHRzX3BhZ2UiLA0KICAgICJyZWRpcmVjdF9vbl9lbnRlciI6IDAsDQogICAgInJlZGlyZWN0RW50ZXJUbyI6ICJyZXN1bHRzX3BhZ2UiLA0KICAgICJyZWRpcmVjdF91cmwiOiAiP3M9e3BocmFzZX0iLA0KICAgICJvdmVycmlkZXdwZGVmYXVsdCI6IDEsDQogICAgIm92ZXJyaWRlX21ldGhvZCI6ICJnZXQiDQp9DQo="></div>
+		</div>
+		
+        <!-- /.container-fluid -->
+      </nav>
+    </div>
+<!-- /template_name: header.tpl --><div class="page-seperator"></div>
+
+<div class="container">
+  <div class="row">
+    <div class="qua_page_heading">
+      <h1>Список злостных SMS-спамеров</h1>
+      <div class="qua-separator"></div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row qua_blog_wrapper">
+<div class="col-md-8">
+<span id="breadcrumb" class="bread_crumb">
+
+                        <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                        <a href="https://www.chestnoc.com/#from-breadcrumb" itemprop="url" data-wpel-link="internal">
+                        <span itemprop="title">Главная</span>
+                        </a>  &gt; 
+                        </span>
+                        <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                        <a href="https://www.chestnoc.com/category/sms-spam/#from-breadcrumb" itemprop="url" data-wpel-link="internal">
+                        <span itemprop="title">sms спам</span>
+                        </a>  &gt; 
+                        </span><!--noindex--><strong class="current">Список злостных SMS-спамеров</strong><!--/noindex--></span>
+            <div class="qua_blog_detail_section">
+	          <div class="qua_post_date">
+          <script type="text/javascript" id="single_datetime_script">
+		  document.write('<span class="date">24</span>'+
+          '<h6>Окт</h6>');
+		  </script><span class="date">24</span><h6>Окт</h6>
+        </div>
+        <div class="qua_post_title_wrapper">
+          		  <h2><a href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#desc">Список злостных SMS-спамеров</a></h2>
+          <div class="qua_post_detail">
+            <a href="https://www.chestnoc.com/author/andrews32/" rel="nofollow" data-wpel-link="internal"><svg class="svg-inline--fa fa-user fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 0c88.366 0 160 71.634 160 160s-71.634 160-160 160S96 248.366 96 160 167.634 0 256 0zm183.283 333.821l-71.313-17.828c-74.923 53.89-165.738 41.864-223.94 0l-71.313 17.828C29.981 344.505 0 382.903 0 426.955V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48v-37.045c0-44.052-29.981-82.45-72.717-93.134z"></path></svg><!-- <i class="fa fa-user"></i> --> Andrews32</a>
+            <a href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#comments" data-wpel-link="internal"><svg class="svg-inline--fa fa-comments fa-w-18" aria-hidden="true" data-prefix="fa" data-icon="comments" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M224 358.857c-37.599 0-73.027-6.763-104.143-18.7-31.375 24.549-69.869 39.508-110.764 43.796a8.632 8.632 0 0 1-.89.047c-3.736 0-7.111-2.498-8.017-6.061-.98-3.961 2.088-6.399 5.126-9.305 15.017-14.439 33.222-25.79 40.342-74.297C17.015 266.886 0 232.622 0 195.429 0 105.16 100.297 32 224 32s224 73.159 224 163.429c-.001 90.332-100.297 163.428-224 163.428zm347.067 107.174c-13.944-13.127-30.849-23.446-37.46-67.543 68.808-64.568 52.171-156.935-37.674-207.065.031 1.334.066 2.667.066 4.006 0 122.493-129.583 216.394-284.252 211.222 38.121 30.961 93.989 50.492 156.252 50.492 34.914 0 67.811-6.148 96.704-17 29.134 22.317 64.878 35.916 102.853 39.814 3.786.395 7.363-1.973 8.27-5.467.911-3.601-1.938-5.817-4.759-8.459z"></path></svg><!-- <i class="fa fa-comments"></i> --> 11 комментариев</a><div class="qua_tags"><svg class="svg-inline--fa fa-tags fa-w-20" aria-hidden="true" data-prefix="fa" data-icon="tags" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M497.941 225.941L286.059 14.059A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v204.118a48 48 0 0 0 14.059 33.941l211.882 211.882c18.744 18.745 49.136 18.746 67.882 0l204.118-204.118c18.745-18.745 18.745-49.137 0-67.882zM112 160c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm513.941 133.823L421.823 497.941c-18.745 18.745-49.137 18.745-67.882 0l-.36-.36L527.64 323.522c16.999-16.999 26.36-39.6 26.36-63.64s-9.362-46.641-26.36-63.64L331.397 0h48.721a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882z"></path></svg><!-- <i class="fa fa-tags"></i> --> </div><div class="qua_post_cats"><span class="nojs_single_post_rubriki"></span>               <svg class="svg-inline--fa fa-group fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="group" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-group"></i> --> <a href="https://www.chestnoc.com/category/sms-spam/" rel="category tag" data-wpel-link="internal">sms спам</a><span title="Количество просмотров всего"><img src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/views_24x24.png" width="20" height="20" alt="Количество просмотров"> 2&nbsp;967</span>            </div>
+                      </div><!-- /.qua_post_detail div -->
+		          </div>
+        <div class="clear"></div>
+		        <a name="desc"></a>
+		<div class="qua_blog_post_content">
+          
+        <!--Yasr Visitor Votes Shortcode-->
+        <div id="yasr_visitor_votes_63" class="yasr-visitor-votes"><div class="yasr-container-custom-text-and-visitor-rating">
+            <span id="yasr-custom-text-before-visitor-rating">Оцените этот отзыв (качество тектса, а не товара!):</span></div><div class="rateit yasr_visitor_votes_stars_div" id="yasr_rateit_visitor_votes_63" data-postid="63" data-rateit-starwidth="16" data-rateit-starheight="16" data-rateit-value="3.3" data-rateit-step="1" data-rateit-resetable="false" data-rateit-readonly="false"><button id="rateit-reset-2" type="button" data-role="none" class="rateit-reset" aria-label="reset rating" aria-controls="rateit-range-2" style="display: none;"></button><div id="rateit-range-2" class="rateit-range" tabindex="0" role="slider" aria-label="rating" aria-owns="rateit-reset-2" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3.3" style="width: 80px; height: 16px;" aria-readonly="false"><div class="rateit-selected" style="height: 16px; width: 52.8px;"></div><div class="rateit-hover" style="height:16px"></div></div></div><span class="dashicons dashicons-chart-bar yasr-dashicons-visitor-stats " id="yasr-total-average-dashicon-63"></span><span class="yasr-total-average-container" id="yasr-total-average-text_63">[Общая оценка: 4. Средняя: 3.3]</span></div>
+        <!--End Yasr Visitor Votes Shortcode-->
+        <p class="noclass"><img src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/stop_spam_178x176.jpg" alt="Стоп спам!" width="178" height="176" class="alignright size-full wp-image-1266">Друзья! Я, как и вы, ежедневно получаю по несколько SMS, на которые я не подписывался. Мне, как и вам, противно, что эти охреневшие предприниматели вторгаются в нашу жизнь и остаются безнаказанными. Давайте накажем их, сделав антирекламу!</p>
+<p>Итак, если вам постоянно (да даже единоразово) приходят спамные СМС-сообщения, ваши и мои действия:<br>
+пишете здесь (в комментариях) название / номер отправителя<br>
+и текст самого сообщения.</p>
+<p>Начну с себя. Порывшись в папке «Входящие» своего телефона, нашёл несколько десятков спам-сообщений. Пусть их отправителям упадёт на голову кирпич, а лучше чтобы их бизнес обанкротился. Аминь!</p>
+<h2>Как избавиться от sms спама? Для начала — написать нам (внизу страницы)</h2>
+<div id="sms_spam_list">
+<h3>Отправитель: Stomatolog+</h3>
+<p>Стоматология «все свои!». Имплантат — 3775 руб. металлокерамика — 2900 руб,паномарный снимок — 550 руб. Скидка на брекетпротезы, пломбы, -50%!Новым пациентам-бесплатная Узчистка зубов! Тел. +78124490204</p>
+<h3>Отправитель: SDS</h3>
+<p>Двухуровневая квартира от застройщика в г. Всеволожск. 47 кв.м. — 2,2 млн р. Звоните, 89818810751</p>
+<h3>Отправитель: iiko.net</h3>
+<p>iiko.net код активации 8072</p>
+<h3>remont95.ru</h3>
+<p>Сломался комп?Частный мастер СПб ЛО ремонт не дороже 700р. т.6076844</p>
+<h3>Отправитель: 86486212</h3>
+<p>Вам скидка 20% на все поездки! такси 6286262 только новые иномарки!</p>
+<h3>Отправитель: +79643423829 (+7-964-342-38-29)</h3>
+<p>Бетонный завод «Конкрит» Таллинское Шоссе 153 п.белоостров, новое Шоссе 47<br>
+п.Колтуши, ул.Колхозная д.1<br>
+Любой бетон, на ваш строительный объект по оптимальным ценам<br>
+Менеджер Сергей 642-38-29</p>
+<h3>Отправитель: +79009816872 (+7 900 981-68-72)</h3>
+<p>Реклама ваших услуг через смс рассылку!! Недорого! тел: 8900+981+6741</p>
+<h3>Отправитель: +79086210454 (+7-908-621-04-54)</h3>
+<p>Всем такси с комфортом. 8(812)6124443 Сайт: vsemtaxispb.ru</p>
+<h3>Отправитель: 79020829913 (+7-902-082-99-13)</h3>
+<p>Стоматологический холдинг! Имплант С Ш А-11900, Израиль-3775 руб. Нейлоновый протез — скидка 50 процентов! Цены тел +7 (812) 4490204</p>
+<h3>Отправитель: +78129894793 (+7-812-989-47-93)</h3>
+<p>Участки у ОЗЕРА в 20 мин от СПб. Рассрочка до года! тел 989-47-93</p>
+<h3>Отправитель: +79022283988 (+7-902-228-39-88)</h3>
+<p>Студия 24м2 за 1,2 млн.р.! Акция! тел: 6400906 FZJ</p>
+<h3>Отправитель: +7902229566 (+7-902-229-55-66)</h3>
+<p>Натяжные потолки.-50%. Производство. Мин. Сроки. Рассрочка 0%. т. 7482943</p>
+<h3>Отправитель: +79022262387 (+7-902-226-23-87)</h3>
+<p>Квартира от застройщика! 24м2 за 1,2млн.р.! тел: 6400906 WYS</p>
+<h3>Отправитель: +79022295572 (+7-902-229-55-72)</h3>
+<p>Нужны наличные? Быстрые займы без справок! 88003334140 звонок беспл.VF7</p>
+<h3>Отправитель: +79022271984 (+7-902-227-19-84)</h3>
+<p>Ваша скидка 35% по коду 555. Такси вызов 309-88-98</p>
+<h3>Отправитель: +79022284325 (+7-902-228-43-25)</h3>
+<p>Ваша скидка 35% по коду 555. Такси Апельсин 309-06-29</p>
+<h3>Отправитель: +79022284320 (+7-902-228-43-20)</h3>
+<p>Деньги срочно? Займите до 7оооо руб! 88003338708 беспл.звонок S5Z</p>
+<h3>Отправитель: +79022284287 (+7-902-228-43-87)</h3>
+<p>Кредит без залога до 2 млн. рублей! Звоните +7(812)2447155 одобрим!4LQ<br>
+И ещё спам от них же:<br>
+Стоматология-наши цены не изменились! Имплант Израиль — 3775р.,скидка — 30% на все услуги. Лечение в кредит.Тел.+78124490204</p>
+<h3>Отправитель: Sclub.ru (+7 725 8278)</h3>
+<p>В аптеках РИГЛА скидка до 20% на всё только 23.09! Инфо: rigla.ru</p>
+<h3>Отправитель: +46 568+218+8178</h3>
+<p>FR акция! Всего 5 еЕвродвушек за 2130 млн! м.Ломоносовская! т 640-40-57</p>
+<h3>Отправитель: +79510631840 (+7-951-063-18-40)</h3>
+<p>Только 3 дня: ОДШУНКА за 909 т.р.! Узнайте по т. 409-37-67</p>
+<h3>Отправитель: +79003295715 (+7-900-329-57-15)</h3>
+<p>ДИН РАсПРОДАЖ до 22/10! БЕЗЛИМИТНЫЙ ФИТНЕС + БАССЕЙН = 7900! 335-69-69</p>
+<h3>Отправитель: +79087106291 (+7-908-710-62-91)</h3>
+<p>Айфоны дешевле чем у всех! распродажа со склада! т.: 89112060582</p>
+<h3>Отправитель: +79081798213 (+7-908-179-82-13)</h3>
+<p>Холодно в квартире? Все виды ремонта паст. окон и дверей! 89531553588</p>
+<h3>Отправитель: 26153061</h3>
+<p>Болит спина? Конс-я невролога+диагностика+процедура за 952р. Т. 6409665</p>
+<h3>Отправитель: COMFORT</h3>
+<p>Приятно, комфортно, доступно. Служба заказа бузнес-такси. т.67-67-000</p>
+<h3>Отправитель: Dom Stroy</h3>
+<p>загородное строительство ПО ДОСТУПНЫМ ЦЕНАМ. Проект бесплатно! 3857612</p>
+<h3>Отправитель: platinat</h3>
+<p>Белыми ночами такси от 190р.! ПЛАТИНА ТАКСИ 2428052. Удачи вам!</p>
+<h3>Отправитель: Extra sport</h3>
+<p>БЕЗЛИМИТНЫЙ ФИТНЕС + АБОНЕМЕНТ ДРУГУ = 4 800! Акция до 04.08! 644 02 88</p>
+<h3>Отправитель: 66800</h3>
+<p>Такси 6008666 срочная доставка новой иномарки к Вашей парадной!</p>
+<h3>Отправитель: L_Gorod</h3>
+<p>ТАКСИ, эвакуатор. Все лето цены ниже на 20%! Пулково, вокзалы т. 90-90-292</p>
+<h3>Отправитель: 7777770</h3>
+<p>Называйте 777 при заказе такси и получайте скидку 20%. Тел. 777-777-0</p>
+<h3>Отправитель: ВекоРос</h3>
+<p>экономьте по немецки!&nbsp;Окна ПВХ в рассрочку! Сервис германии! т.6010502</p>
+<h3>Отправитель: 610-06-06</h3>
+<p>Только до 16, 17 и 18 июля в Fitness House скидка на абонементы 30%! &nbsp;Тел.610-06-06</p>
+<h3>Отправитель: +88126666665</h3>
+<p>Недорогое такси. Только иномарки. 15-ая поездка в подарок. Т. 666666-5</p>
+<h3>Отправитель: 717171</h3>
+<p>Новая иномарка у Вас за 15 минут! такси 7777171 скидка по смс — 20%</p>
+<h3>И ещё спам от отправителя 717171:</h3>
+<p>Новая иномарка у Вас за 15 минут! Такси 7777171 в аэропорт от 350 руб!</p>
+<h3>Отправитель: +79119430896</h3>
+<p>Промопоры карданного вала Перкинс — 2500р — ЕСТЬ на складе в СПб. $$$</p>
+<h3>Отправитель: +79119430896</h3>
+<p>Тормозные накладки на FOTON в наличии! Спб, Дальневосточный 13, корп 3</p>
+<h3>Отправитель: Lux РЕМОНТ</h3>
+<p>натяжные ПОТОЛКИ ПолимерПолы ДекорШтукатурка Скидка40%-Рассрочка 3857693</p>
+<h3>Отправитель: MassageSpb</h3>
+<p>Приглашаю на профессиональный массаж НА ДОМУ.от 500р. 89522164416.Алина</p>
+<h3>Отправитель: +79119430896</h3>
+<p>Запчасти FOTON BAW. Дальневосточный пр. 13 корп 3. Удобный подъезд! ))</p>
+<h3>Отправитель: 318-0-318</h3>
+<p>Служба казата такси «ВЕЗЁТ». Машины ближе — цены ниже!!!</p>
+<h3>Отправитель: GK VashDom</h3>
+<p>Квартиры в Выборге от застройщика 1,2 млн 8(812)9836986 spbvashdom.ru</p>
+<h3>Отправитель: Potrebcred</h3>
+<p>Помощь в получении кредита до 2 млн руб! гарантия 100%! 9329257</p>
+<h3>Отправитель: +79119430896</h3>
+<p>Пополнение склада запчастей FOTON. СПб, Полюстровский, 32. Удачи!</p>
+<h3>Отправитель: avtocredit</h3>
+<p>Кредит на бу авто по 2-м документам без взноса 9526216</p>
+<h3>Отправитель: FitnessHouse</h3>
+<p>В FitnessHouse год 8900 р. +лето в подарок. Т: 610-06-06</p>
+<h3>Отправитель: Nevskoe</h3>
+<p>такси 777-71-71 Новая иномарка у Вас за 15 минут! Скидка по SMS 20%</p>
+<h3>Отправитель: Gazelkin</h3>
+<p>Открываем Дачный сезон! перевозка за город от 977р.! т.600-06-06</p>
+<p><b>+79119430896</b></p>
+<p>Поздравляем с майскими праздниками! Всем приятного шашлыка! )) Фотон-комплект, запчасти на Полюстровском, 32.В выходные мы работаем по звонку, отгрузки с 12-00 до 15-00. Всего хорошего!</p>
+<h3>Отправитель: dilijans</h3>
+<p>Такси 7777171 Новая иномарка у Вас за 15 минут!скидка по смс — 20%!</p>
+<h3>Отправитель: DISCOTEKA90</h3>
+<p>27 апреля Пенабар-Ленинский 148 Бесплатный вход по спискам clubtus.ru</p>
+<h3>Отправитель: +79371894690</h3>
+<p>На ван А/Н выпал приз «Ноутбук» инф.www.s-pay.lark.ru 89879882476</p>
+<h3>Отправитель: +79520443625 (+7952-044-36-25)</h3>
+<p>Квартира за 941 тыс. руб! И это полная цена! Тел. 409-91-26</p>
+<h3>Отправитель: FAWzapchast</h3>
+<p>Открылся магазин запчастей BAW, FAW, HOWO и др. Просвещения 99 тел. +79052038399 Прибыл контейнер запчастей.</p>
+<p><b>PrimeNerud</b></p>
+<p>Щебень,Песок,Грунт нерудные материады с доставкой Звоните!!! 339-50-50</p>
+<h3>Отправитель: Novostroiky</h3>
+<p>Последние 3к.кв. у метро за 5,5 млн.р. Первый взнос 0%. 943-97-60</p>
+<h3>Отправитель: +89218704625</h3>
+<p>Закажи такс ипозитив от 239 руб., и будет тебе счастье! Гарантия 🙂</p>
+<h2>Отправитель: +78126000222</h2>
+<p>Что подарить? 400 вариантов подарков emociy.ru Звони 6-000-222</p>
+<h2>Отправитель: OTDELKA</h2>
+<p>НАТЯЖНЫЕпотолки ПолимерПолы ДекорШтукатурка Скидк40%-рассрочка 3857693</p>
+<h2>Отправитель: information</h2>
+<p>на ваше объявление в AVITO пришли отклики! WWW.DOM.AVITO-09.RU</p>
+<h2>(без имени отправителя)</h2>
+<p>Optimizator telefona uspeshno obnovlen! Zagruzite kluck aktivacii: http://hot.ee/optimizer/key</p>
+<h2>С номера 4016</h2>
+<p>На ваше объявление откликнулись! Ответьте ДА для продолжния или СТОП Поддержка 88001007337</p>
+<h2>С номера +79520418298</h2>
+<p>Однушка у Неву всего за 1.2 млн. Акция до 21.04 Звоните 242-80-56</p>
+<h2>+13478937936</h2>
+<p>e www.vk.com/rezum</p>
+<h2>L`ETOILE</h2>
+<p>-40% на ВСЁ! Последняя распродажа! Только 3 дня! 26-28.12 letu.ru</p>
+<h3>Отправитель: 20-14 (МТС)</h3>
+<p>МТС тоже шлёт спам, причём часто. Мне вот такие сообщения приходят не реже раза в неделю (от САМОГО ОПЕРАТОРА СВЯЗИ получать рассылку вдвойне противно):</p>
+<p>Второй шанс для 911920****</p>
+<p>Вторая награда за преданность.&nbsp;Сегодня 09-12 Вы выбраны для участия! Выиграйте 57-й «Мерседес-Бенц»!&nbsp;Отправьте ПОБЕДА на 2014.&nbsp;42,34р/SMS/контент,инфо:<a href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#" target="_blank" class="href_from_title" title="http://2014.mts.ru/">2014.mts.ru</a></p>
+</div>
+<p>На злободневный вопрос «Как бороться с sms спамом?» отвечаем: антирекламой! И пусть ваши мобильники принимают сообщения только от тех, кто вам дорог!<input type="hidden" value="63"></p>
+        				<div id="uab-frontend-wrapper" class="uab-frontend-wrapper 
+			uab-template-1">
+				<div id="uab-tab-index-wrapper" class="uab-tab-index-wrapper" style="display:none;">
+					<ul class="uab-tabs uab-clearfix">
+						<li class="tab-link uab_author_detail uab-current" data-tab="tab-1" data-name="Об авторе">
+							Об авторе						</li>
+											</ul>
+				</div>
+
+				
+				<div id="tab-1" class="uab-tab-content uab-current">
+											<div class="uab-defaut-tab-wrapper ">
+							<div class="uab-defaut-tab uab-clearfix">
+								<div class="uab-author-profile-pic">
+		<div class="uap-profile-image uap-profile-image-square">
+		<img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/4fe770f4dd7fc277cdc35ba530d85ed9.jpeg" srcset="https://secure.gravatar.com/avatar/4fe770f4dd7fc277cdc35ba530d85ed9?s=400&amp;r=g 2x" class="comment_img avatar-200 photo" height="200" width="200">	</div>
+</div><div class="uab-front-content">
+<!-- template_name: uab-component-name.tpl: -->
+	<div class="uab-display-name">
+		<!-- User Display Name -->
+		<a rel="nofollow" href="https://www.chestnoc.com/author/andrews32/" target="_blank" data-wpel-link="internal">Andrews32</a>
+		
+		<span class="uab-user-role">Автор</span>	</div>
+			<div class="uab-company-info">
+			<span class="uab-company-designation">
+							</span> 		</div>
+	<!-- /template_name: uab-component-name.tpl --><div class="uab-short-info">
+Автор с активной гражданской позицией и стойкой нелюбовью к нечестным производителям, продавцам, исполнителям. За правду и справедливость, камрад!</div>﻿<div class="uab-short-contact ">
+			<div class="uab-contact-inner">
+					</div>
+	</div></div>
+
+
+							</div>
+						</div>
+											</div>	
+										
+				</div>
+				        	<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Product","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u0437\u043b\u043e\u0441\u0442\u043d\u044b\u0445 SMS-\u0441\u043f\u0430\u043c\u0435\u0440\u043e\u0432","Review":{"@type":"Review","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u0437\u043b\u043e\u0441\u0442\u043d\u044b\u0445 SMS-\u0441\u043f\u0430\u043c\u0435\u0440\u043e\u0432","author":{"@type":"Person","name":"Andrews32"},"datePublished":"2017-10-24T23:07:21+00:00","reviewRating":{"@type":"Rating","ratingValue":"4.8"}}}</script><div id="yasobe_ru_container"><p><span id="yasobe_ru_line_1"></span></p><h4 class="bold"><span id="yasobe_ru_line_2"></span></h4></div><!-- /#yasobe_ru_container div --><h3>См. также:</h3>        </div><!-- /.qua_blog_post_content div -->
+		<!-- template_name: /page_and_single_share_buttons.tpl: -->
+<!-- /template_name: /page_and_single_share_buttons.tpl -->
+      </div><!-- /.qua_post_title_wrapper div -->
+      
+<!-- ========== Comments_template (start): ========== -->
+<!-- template_name: comments.tpl (Q.): -->
+<div class="qua_comment_section">
+  <div class="qua_comment_title">
+    <h3><svg class="svg-inline--fa fa-comments fa-w-18" aria-hidden="true" data-prefix="fa" data-icon="comments" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M224 358.857c-37.599 0-73.027-6.763-104.143-18.7-31.375 24.549-69.869 39.508-110.764 43.796a8.632 8.632 0 0 1-.89.047c-3.736 0-7.111-2.498-8.017-6.061-.98-3.961 2.088-6.399 5.126-9.305 15.017-14.439 33.222-25.79 40.342-74.297C17.015 266.886 0 232.622 0 195.429 0 105.16 100.297 32 224 32s224 73.159 224 163.429c-.001 90.332-100.297 163.428-224 163.428zm347.067 107.174c-13.944-13.127-30.849-23.446-37.46-67.543 68.808-64.568 52.171-156.935-37.674-207.065.031 1.334.066 2.667.066 4.006 0 122.493-129.583 216.394-284.252 211.222 38.121 30.961 93.989 50.492 156.252 50.492 34.914 0 67.811-6.148 96.704-17 29.134 22.317 64.878 35.916 102.853 39.814 3.786.395 7.363-1.973 8.27-5.467.911-3.601-1.938-5.817-4.759-8.459z"></path></svg><!-- <i class="fa fa-comments"></i> --> 11 комментариев к <a class="cursor_pointer">Список злостных SMS-спамеров</a></h3>
+  </div>
+  	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/3f33fbe2cbc9be34f1dbcba9730797e9.jpg" srcset="https://secure.gravatar.com/avatar/3f33fbe2cbc9be34f1dbcba9730797e9?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Anon</h4>
+				<span class="qua_comment_date">Февраль 5, 2018&nbsp;в&nbsp;5:50 пп</span>
+				<p>От +7977 946-17-48 пришло: Частное,Никита поделился с Вами фото — bit.ly/2E46RkG</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=3#respond" data-onclick="return addComment.moveForm( &quot;comment-3&quot;, &quot;3&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Anon" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/fd2fe8111cfe29b5a5dbfff65b8d2ed6.jpg" srcset="https://secure.gravatar.com/avatar/fd2fe8111cfe29b5a5dbfff65b8d2ed6?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Paulito</h4>
+				<span class="qua_comment_date">Ноябрь 27, 2018&nbsp;в&nbsp;12:27 дп</span>
+				<p>Спам с номера +79582430993 (958 243-09-93).<br>
+Текст: Q ЧернаяПятница! -25% на поездки в приложении — spb.rutaxi.ru/br83.html</p>
+<p>Похоже, Рутакси (точнее, такси «Везёт») — тоже злостный спамер!</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=95#respond" data-onclick="return addComment.moveForm( &quot;comment-95&quot;, &quot;95&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Paulito" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/c3637623d85a31fda37ee31a696cac1b.jpg" srcset="https://secure.gravatar.com/avatar/c3637623d85a31fda37ee31a696cac1b?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Эльза</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;10:34 пп</span>
+				<p>С номера +7(958) 247-98-53 пришло смс: Успей до повышения цен! Апартмаенты на Ваське! Заработай с нами 2102353</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=117#respond" data-onclick="return addComment.moveForm( &quot;comment-117&quot;, &quot;117&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Эльза" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/4fe770f4dd7fc277cdc35ba530d85ed9(1).jpeg" srcset="https://secure.gravatar.com/avatar/4fe770f4dd7fc277cdc35ba530d85ed9?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Andrews32</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;10:38 пп</span>
+				<p>Мне пришёл спам с номера +7(939) 781-32-77: Вам СКИДКА 820.000р. на автомобиль INFINITI ДО 23.12.! Т 8(812)6026770</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=118#respond" data-onclick="return addComment.moveForm( &quot;comment-118&quot;, &quot;118&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Andrews32" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/81f115935d86ef1125afd9f83cba6e31.jpg" srcset="https://secure.gravatar.com/avatar/81f115935d86ef1125afd9f83cba6e31?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Кувалдометр</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:20 пп</span>
+				<p>С номера +7(958) 038-52-17: это Гриша! sir3u.info/g/?z Ваше? Хочу бартер<br>
+P.S. Это пришло вскоре после того, как разместил объявление на Авито.</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=119#respond" data-onclick="return addComment.moveForm( &quot;comment-119&quot;, &quot;119&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Кувалдометр" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/81f115935d86ef1125afd9f83cba6e31.jpg" srcset="https://secure.gravatar.com/avatar/81f115935d86ef1125afd9f83cba6e31?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Кувалдометр</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:23 пп</span>
+				<p>Отправитель +7 (958) 098-50-61: «я Денис! bv3ud.info/b/?op Ваше? бартер есть?» — тоже, похоже, нашли мой номер на Авито</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=120#respond" data-onclick="return addComment.moveForm( &quot;comment-120&quot;, &quot;120&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Кувалдометр" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/81f115935d86ef1125afd9f83cba6e31.jpg" srcset="https://secure.gravatar.com/avatar/81f115935d86ef1125afd9f83cba6e31?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Кувалдометр</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:25 пп</span>
+				<p>Спамер с номером +7 (964) 587-75-48 прислал мне: «Шиномонтаж. Переобув 4ч колёс 1000р ул Арсенальная 68Б 89215973059 ЭБ»</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=121#respond" data-onclick="return addComment.moveForm( &quot;comment-121&quot;, &quot;121&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Кувалдометр" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/b01b1ed9cfcdc487fa7bf37fa7c06c15.jpg" srcset="https://secure.gravatar.com/avatar/b01b1ed9cfcdc487fa7bf37fa7c06c15?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Браток007</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:29 пп</span>
+				<p>+79520393320 спам такой: 1комн. квартира За 1.2 млн.руб.Это полная цена»В ЖК живут! 602-76-63. </p>
+<p>Написано с ошибками (часть букв английская без пробелов). Посадить бы вас на швабру в натуре!</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=122#respond" data-onclick="return addComment.moveForm( &quot;comment-122&quot;, &quot;122&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Браток007" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/b01b1ed9cfcdc487fa7bf37fa7c06c15.jpg" srcset="https://secure.gravatar.com/avatar/b01b1ed9cfcdc487fa7bf37fa7c06c15?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Браток007</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:32 пп</span>
+				<p>И ещё одна смс (отправитель ABTODOM — был у них на тест драйве, так потом достали и звонками и спамом гниды!): MINI а АВТОДОМ на выходных условиях! Выгода до 497000р. Предложение действует с 16-19.11. Бронь: +7 812 2101997</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=123#respond" data-onclick="return addComment.moveForm( &quot;comment-123&quot;, &quot;123&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Браток007" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/bdd88e621247edff9a576f3769ddbd2a.jpg" srcset="https://secure.gravatar.com/avatar/bdd88e621247edff9a576f3769ddbd2a?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Pr0g3r</h4>
+				<span class="qua_comment_date">Февраль 15, 2019&nbsp;в&nbsp;11:38 пп</span>
+				<p>Магазин шин «Колесо» тоже шлёт смс без спроса! Например:<br>
+(1) Конкуренты плачут от наших НИЗКИХ ЦЕН на ЗИМНИЕ ШИНЫ! koleso-russia.ru<br>
+После чего я им в ответ отправил сообщение «я не разрешал слать мне спам!» И что же? Через месяц снова получил sms от них:<br>
+(2) Бьёим рекорды низких цен! Шины и диски. Шиномонтаж -30%. kolesorussia.ru<img src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/sms_spam_ot_magazina_koleso_spb_300x299.jpg" width="300" height="299" class="aligncenter"></p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=124#respond" data-onclick="return addComment.moveForm( &quot;comment-124&quot;, &quot;124&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Pr0g3r" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+	
+          <div class="media qua_comment_box">
+			<a class="pull_left_comment">
+            <img alt="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/e38b1633b3c3ac7d6f685a3232c77f75.jpg" srcset="https://secure.gravatar.com/avatar/e38b1633b3c3ac7d6f685a3232c77f75?s=120&amp;r=g 2x" class="comment_img avatar-60 photo" height="60" width="60">            </a>
+           <div class="media-body">
+			   <div class="qua_comment_detail">
+				<h4 class="qua_comment_detail_title">Алек</h4>
+				<span class="qua_comment_date">Декабрь 1, 2019&nbsp;в&nbsp;9:53 пп</span>
+				<p>+234 802 165 1528<br>
+Olx мошенничество!!! Не ведитесь! Пишет на английском. Якобы из сша</p>
+				
+				<div class="reply">				
+				<svg class="svg-inline--fa fa-mail-reply fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="mail-reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-mail-reply"></i> -->&nbsp;<a rel="nofollow" class="comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/?replytocom=183#respond" data-onclick="return addComment.moveForm( &quot;comment-183&quot;, &quot;183&quot;, &quot;respond&quot;, &quot;63&quot; )" aria-label="Комментарий к записи Алек" data-wpel-link="internal">Ответить</a>				</div>
+				
+								
+				</div>
+			</div>
+		  </div><!-- /.media .qua_comment_box div -->
+<!-- #comment-## -->
+</div>
+<div class="qua_comment_form_section">
+  	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"></h3><h2>Оставить ответ</h2> <small><a rel="nofollow" id="cancel-comment-reply-link" href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#respond" style="display:none;" data-wpel-link="internal">Отменить ответ</a></small>			<form action="https://www.chestnoc.com/wp-comments-post.php" method="post" id="action" class="comment-form">
+				<div class="qua_form_group"><label>Комментарий</label>
+    <textarea id="comments" rows="5" class="qua_con_textarea_control" name="comment" style="visibility: hidden; display: none;"></textarea><div id="cke_comments" class="cke_1 cke cke_reset cke_chrome cke_editor_comments cke_ltr cke_browser_webkit" dir="ltr" lang="ru" role="application" aria-labelledby="cke_comments_arialbl"><span id="cke_comments_arialbl" class="cke_voice_label">Визуальный текстовый редактор, comments</span><div class="cke_inner cke_reset" role="presentation"><span id="cke_1_top" class="cke_top cke_reset_all" role="presentation" style="height: auto; user-select: none;"><span id="cke_12" class="cke_voice_label">Панели инструментов редактора</span><span id="cke_1_toolbox" class="cke_toolbox" role="group" aria-labelledby="cke_12" onmousedown="return false;"><span id="cke_14" class="cke_toolbar" aria-labelledby="cke_14_label" role="toolbar"><span id="cke_14_label" class="cke_voice_label">bar1</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_15" class="cke_button cke_button__undo cke_button_disabled " href="javascript:void(&#39;Отменить&#39;)" title="Отменить (Ctrl+Z)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_15_label" aria-describedby="cke_15_description" aria-haspopup="false" aria-disabled="true" onkeydown="return CKEDITOR.tools.callFunction(2,event);" onfocus="return CKEDITOR.tools.callFunction(3,event);" onclick="CKEDITOR.tools.callFunction(4,this);return false;"><span class="cke_button_icon cke_button__undo_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -2448px;background-size:auto;">&nbsp;</span><span id="cke_15_label" class="cke_button_label cke_button__undo_label" aria-hidden="false">Отменить</span><span id="cke_15_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+Z</span></a><a id="cke_16" class="cke_button cke_button__redo cke_button_disabled " href="javascript:void(&#39;Повторить&#39;)" title="Повторить (Ctrl+Y)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_16_label" aria-describedby="cke_16_description" aria-haspopup="false" aria-disabled="true" onkeydown="return CKEDITOR.tools.callFunction(5,event);" onfocus="return CKEDITOR.tools.callFunction(6,event);" onclick="CKEDITOR.tools.callFunction(7,this);return false;"><span class="cke_button_icon cke_button__redo_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -2400px;background-size:auto;">&nbsp;</span><span id="cke_16_label" class="cke_button_label cke_button__redo_label" aria-hidden="false">Повторить</span><span id="cke_16_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+Y</span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_17" class="cke_toolbar" aria-labelledby="cke_17_label" role="toolbar"><span id="cke_17_label" class="cke_voice_label">bar2</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_18" class="cke_button cke_button__bold cke_button_off" href="javascript:void(&#39;Полужирный&#39;)" title="Полужирный (Ctrl+B)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_18_label" aria-describedby="cke_18_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(8,event);" onfocus="return CKEDITOR.tools.callFunction(9,event);" onclick="CKEDITOR.tools.callFunction(10,this);return false;"><span class="cke_button_icon cke_button__bold_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -24px;background-size:auto;">&nbsp;</span><span id="cke_18_label" class="cke_button_label cke_button__bold_label" aria-hidden="false">Полужирный</span><span id="cke_18_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+B</span></a><a id="cke_19" class="cke_button cke_button__italic cke_button_off" href="javascript:void(&#39;Курсив&#39;)" title="Курсив (Ctrl+I)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_19_label" aria-describedby="cke_19_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(11,event);" onfocus="return CKEDITOR.tools.callFunction(12,event);" onclick="CKEDITOR.tools.callFunction(13,this);return false;"><span class="cke_button_icon cke_button__italic_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -48px;background-size:auto;">&nbsp;</span><span id="cke_19_label" class="cke_button_label cke_button__italic_label" aria-hidden="false">Курсив</span><span id="cke_19_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+I</span></a><a id="cke_20" class="cke_button cke_button__underline cke_button_off" href="javascript:void(&#39;Подчеркнутый&#39;)" title="Подчеркнутый (Ctrl+U)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_20_label" aria-describedby="cke_20_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(14,event);" onfocus="return CKEDITOR.tools.callFunction(15,event);" onclick="CKEDITOR.tools.callFunction(16,this);return false;"><span class="cke_button_icon cke_button__underline_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -144px;background-size:auto;">&nbsp;</span><span id="cke_20_label" class="cke_button_label cke_button__underline_label" aria-hidden="false">Подчеркнутый</span><span id="cke_20_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+U</span></a><a id="cke_21" class="cke_button cke_button__strike cke_button_off" href="javascript:void(&#39;Зачеркнутый&#39;)" title="Зачеркнутый" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_21_label" aria-describedby="cke_21_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(17,event);" onfocus="return CKEDITOR.tools.callFunction(18,event);" onclick="CKEDITOR.tools.callFunction(19,this);return false;"><span class="cke_button_icon cke_button__strike_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -72px;background-size:auto;">&nbsp;</span><span id="cke_21_label" class="cke_button_label cke_button__strike_label" aria-hidden="false">Зачеркнутый</span><span id="cke_21_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_22" class="cke_toolbar" aria-labelledby="cke_22_label" role="toolbar"><span id="cke_22_label" class="cke_voice_label">bar4</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_23" class="cke_button cke_button__textcolor cke_button_off cke_button_expandable" href="javascript:void(&#39;Цвет текста&#39;)" title="Цвет текста" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_23_label" aria-describedby="cke_23_description" aria-haspopup="listbox" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(20,event);" onfocus="return CKEDITOR.tools.callFunction(21,event);" onclick="CKEDITOR.tools.callFunction(22,this);return false;" aria-expanded="false"><span class="cke_button_icon cke_button__textcolor_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -432px;background-size:auto;">&nbsp;</span><span id="cke_23_label" class="cke_button_label cke_button__textcolor_label" aria-hidden="false">Цвет текста</span><span id="cke_23_description" class="cke_button_label" aria-hidden="false"></span><span class="cke_button_arrow"></span></a><a id="cke_24" class="cke_button cke_button__bgcolor cke_button_off cke_button_expandable" href="javascript:void(&#39;Цвет фона&#39;)" title="Цвет фона" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_24_label" aria-describedby="cke_24_description" aria-haspopup="listbox" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(23,event);" onfocus="return CKEDITOR.tools.callFunction(24,event);" onclick="CKEDITOR.tools.callFunction(25,this);return false;" aria-expanded="false"><span class="cke_button_icon cke_button__bgcolor_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -408px;background-size:auto;">&nbsp;</span><span id="cke_24_label" class="cke_button_label cke_button__bgcolor_label" aria-hidden="false">Цвет фона</span><span id="cke_24_description" class="cke_button_label" aria-hidden="false"></span><span class="cke_button_arrow"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_25" class="cke_toolbar" aria-labelledby="cke_25_label" role="toolbar"><span id="cke_25_label" class="cke_voice_label">bar5</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_26" class="cke_button cke_button__link cke_button_off" href="javascript:void(&#39;Вставить/Редактировать ссылку&#39;)" title="Вставить/Редактировать ссылку (Ctrl+K)" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_26_label" aria-describedby="cke_26_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(26,event);" onfocus="return CKEDITOR.tools.callFunction(27,event);" onclick="CKEDITOR.tools.callFunction(28,this);return false;"><span class="cke_button_icon cke_button__link_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1512px;background-size:auto;">&nbsp;</span><span id="cke_26_label" class="cke_button_label cke_button__link_label" aria-hidden="false">Вставить/Редактировать ссылку</span><span id="cke_26_description" class="cke_button_label" aria-hidden="false">Комбинация клавиш Ctrl+K</span></a><a id="cke_27" class="cke_button cke_button__unlink cke_button_disabled " href="javascript:void(&#39;Убрать ссылку&#39;)" title="Убрать ссылку" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_27_label" aria-describedby="cke_27_description" aria-haspopup="false" aria-disabled="true" onkeydown="return CKEDITOR.tools.callFunction(29,event);" onfocus="return CKEDITOR.tools.callFunction(30,event);" onclick="CKEDITOR.tools.callFunction(31,this);return false;"><span class="cke_button_icon cke_button__unlink_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1536px;background-size:auto;">&nbsp;</span><span id="cke_27_label" class="cke_button_label cke_button__unlink_label" aria-hidden="false">Убрать ссылку</span><span id="cke_27_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_28" class="cke_button cke_button__anchor cke_button_off" href="javascript:void(&#39;Вставить / редактировать якорь&#39;)" title="Вставить / редактировать якорь" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_28_label" aria-describedby="cke_28_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(32,event);" onfocus="return CKEDITOR.tools.callFunction(33,event);" onclick="CKEDITOR.tools.callFunction(34,this);return false;"><span class="cke_button_icon cke_button__anchor_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1488px;background-size:auto;">&nbsp;</span><span id="cke_28_label" class="cke_button_label cke_button__anchor_label" aria-hidden="false">Вставить / редактировать якорь</span><span id="cke_28_description" class="cke_button_label" aria-hidden="false"></span></a><span class="cke_toolbar_separator" role="separator"></span><a id="cke_29" class="cke_button cke_button__image cke_button_off" href="javascript:void(&#39;Изображение&#39;)" title="Изображение" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_29_label" aria-describedby="cke_29_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(35,event);" onfocus="return CKEDITOR.tools.callFunction(36,event);" onclick="CKEDITOR.tools.callFunction(37,this);return false;"><span class="cke_button_icon cke_button__image_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1224px;background-size:auto;">&nbsp;</span><span id="cke_29_label" class="cke_button_label cke_button__image_label" aria-hidden="false">Изображение</span><span id="cke_29_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_30" class="cke_button cke_button__smiley cke_button_off" href="javascript:void(&#39;Смайлы&#39;)" title="Смайлы" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_30_label" aria-describedby="cke_30_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(38,event);" onfocus="return CKEDITOR.tools.callFunction(39,event);" onclick="CKEDITOR.tools.callFunction(40,this);return false;"><span class="cke_button_icon cke_button__smiley_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -2136px;background-size:auto;">&nbsp;</span><span id="cke_30_label" class="cke_button_label cke_button__smiley_label" aria-hidden="false">Смайлы</span><span id="cke_30_description" class="cke_button_label" aria-hidden="false"></span></a><span class="cke_toolbar_separator" role="separator"></span><a id="cke_31" class="cke_button cke_button__horizontalrule cke_button_off" href="javascript:void(&#39;Вставить горизонтальную линию&#39;)" title="Вставить горизонтальную линию" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_31_label" aria-describedby="cke_31_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(41,event);" onfocus="return CKEDITOR.tools.callFunction(42,event);" onclick="CKEDITOR.tools.callFunction(43,this);return false;"><span class="cke_button_icon cke_button__horizontalrule_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1176px;background-size:auto;">&nbsp;</span><span id="cke_31_label" class="cke_button_label cke_button__horizontalrule_label" aria-hidden="false">Вставить горизонтальную линию</span><span id="cke_31_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_32" class="cke_toolbar" aria-labelledby="cke_32_label" role="toolbar"><span id="cke_32_label" class="cke_voice_label">bar6</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_33" class="cke_button cke_button__blockquote cke_button_off" href="javascript:void(&#39;Цитата&#39;)" title="Цитата" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_33_label" aria-describedby="cke_33_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(44,event);" onfocus="return CKEDITOR.tools.callFunction(45,event);" onclick="CKEDITOR.tools.callFunction(46,this);return false;"><span class="cke_button_icon cke_button__blockquote_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -216px;background-size:auto;">&nbsp;</span><span id="cke_33_label" class="cke_button_label cke_button__blockquote_label" aria-hidden="false">Цитата</span><span id="cke_33_description" class="cke_button_label" aria-hidden="false"></span></a><span class="cke_toolbar_separator" role="separator"></span><a id="cke_34" class="cke_button cke_button__source cke_button_off" href="javascript:void(&#39;Источник&#39;)" title="Источник" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_34_label" aria-describedby="cke_34_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(47,event);" onfocus="return CKEDITOR.tools.callFunction(48,event);" onclick="CKEDITOR.tools.callFunction(49,this);return false;"><span class="cke_button_icon cke_button__source_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -2184px;background-size:auto;">&nbsp;</span><span id="cke_34_label" class="cke_button_label cke_button__source_label" aria-hidden="false">Источник</span><span id="cke_34_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_35" class="cke_toolbar" aria-labelledby="cke_35_label" role="toolbar"><span id="cke_35_label" class="cke_voice_label">bar7</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_36" class="cke_button cke_button__bulletedlist cke_button_off" href="javascript:void(&#39;Вставить / удалить маркированный список&#39;)" title="Вставить / удалить маркированный список" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_36_label" aria-describedby="cke_36_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(50,event);" onfocus="return CKEDITOR.tools.callFunction(51,event);" onclick="CKEDITOR.tools.callFunction(52,this);return false;"><span class="cke_button_icon cke_button__bulletedlist_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1584px;background-size:auto;">&nbsp;</span><span id="cke_36_label" class="cke_button_label cke_button__bulletedlist_label" aria-hidden="false">Вставить / удалить маркированный список</span><span id="cke_36_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_37" class="cke_button cke_button__numberedlist cke_button_off" href="javascript:void(&#39;Вставить / удалить нумерованный список&#39;)" title="Вставить / удалить нумерованный список" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_37_label" aria-describedby="cke_37_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(53,event);" onfocus="return CKEDITOR.tools.callFunction(54,event);" onclick="CKEDITOR.tools.callFunction(55,this);return false;"><span class="cke_button_icon cke_button__numberedlist_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1632px;background-size:auto;">&nbsp;</span><span id="cke_37_label" class="cke_button_label cke_button__numberedlist_label" aria-hidden="false">Вставить / удалить нумерованный список</span><span id="cke_37_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_38" class="cke_toolbar" aria-labelledby="cke_38_label" role="toolbar"><span id="cke_38_label" class="cke_voice_label">bar8</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_39" class="cke_button cke_button__table cke_button_off" href="javascript:void(&#39;Таблица&#39;)" title="Таблица" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_39_label" aria-describedby="cke_39_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(56,event);" onfocus="return CKEDITOR.tools.callFunction(57,event);" onclick="CKEDITOR.tools.callFunction(58,this);return false;"><span class="cke_button_icon cke_button__table_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -2280px;background-size:auto;">&nbsp;</span><span id="cke_39_label" class="cke_button_label cke_button__table_label" aria-hidden="false">Таблица</span><span id="cke_39_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_40" class="cke_toolbar" aria-labelledby="cke_40_label" role="toolbar"><span id="cke_40_label" class="cke_voice_label">barfont</span><span class="cke_toolbar_start"></span><span id="cke_13" class="cke_combo cke_combo__fontsize cke_combo_off" role="presentation"><span id="cke_13_label" class="cke_combo_label">Размер</span><a class="cke_combo_button" title="Размер шрифта" tabindex="-1" href="javascript:void(&#39;Размер шрифта&#39;)" hidefocus="true" role="button" aria-labelledby="cke_13_label" aria-haspopup="listbox" onkeydown="return CKEDITOR.tools.callFunction(60,event,this);" onfocus="return CKEDITOR.tools.callFunction(61,event);" onclick="CKEDITOR.tools.callFunction(59,this);return false;"><span id="cke_13_text" class="cke_combo_text cke_combo_inlinelabel">Размер</span><span class="cke_combo_open"><span class="cke_combo_arrow"></span></span></a></span><span class="cke_toolgroup" role="presentation"><a id="cke_41" class="cke_button cke_button__justifyleft cke_button_off" href="javascript:void(&#39;По левому краю&#39;)" title="По левому краю" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_41_label" aria-describedby="cke_41_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(62,event);" onfocus="return CKEDITOR.tools.callFunction(63,event);" onclick="CKEDITOR.tools.callFunction(64,this);return false;"><span class="cke_button_icon cke_button__justifyleft_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1392px;background-size:auto;">&nbsp;</span><span id="cke_41_label" class="cke_button_label cke_button__justifyleft_label" aria-hidden="false">По левому краю</span><span id="cke_41_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_42" class="cke_button cke_button__justifycenter cke_button_off" href="javascript:void(&#39;По центру&#39;)" title="По центру" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_42_label" aria-describedby="cke_42_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(65,event);" onfocus="return CKEDITOR.tools.callFunction(66,event);" onclick="CKEDITOR.tools.callFunction(67,this);return false;"><span class="cke_button_icon cke_button__justifycenter_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1368px;background-size:auto;">&nbsp;</span><span id="cke_42_label" class="cke_button_label cke_button__justifycenter_label" aria-hidden="false">По центру</span><span id="cke_42_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_43" class="cke_button cke_button__justifyright cke_button_off" href="javascript:void(&#39;По правому краю&#39;)" title="По правому краю" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_43_label" aria-describedby="cke_43_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(68,event);" onfocus="return CKEDITOR.tools.callFunction(69,event);" onclick="CKEDITOR.tools.callFunction(70,this);return false;"><span class="cke_button_icon cke_button__justifyright_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1416px;background-size:auto;">&nbsp;</span><span id="cke_43_label" class="cke_button_label cke_button__justifyright_label" aria-hidden="false">По правому краю</span><span id="cke_43_description" class="cke_button_label" aria-hidden="false"></span></a><a id="cke_44" class="cke_button cke_button__justifyblock cke_button_off" href="javascript:void(&#39;По ширине&#39;)" title="По ширине" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_44_label" aria-describedby="cke_44_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(71,event);" onfocus="return CKEDITOR.tools.callFunction(72,event);" onclick="CKEDITOR.tools.callFunction(73,this);return false;"><span class="cke_button_icon cke_button__justifyblock_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -1344px;background-size:auto;">&nbsp;</span><span id="cke_44_label" class="cke_button_label cke_button__justifyblock_label" aria-hidden="false">По ширине</span><span id="cke_44_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_45" class="cke_toolbar" aria-labelledby="cke_45_label" role="toolbar"><span id="cke_45_label" class="cke_voice_label">bar9</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_46" class="cke_button cke_button__videoembed cke_button_off" href="javascript:void(&#39;Вставить видео&#39;)" title="Вставить видео" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_46_label" aria-describedby="cke_46_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(74,event);" onfocus="return CKEDITOR.tools.callFunction(75,event);" onclick="CKEDITOR.tools.callFunction(76,this);return false;"><span class="cke_button_icon cke_button__videoembed_icon" style="background-image:url(&#39;/wp-content/plugins/ark-wysiwyg-comment-editor/plugins/videoembed/icons/videoembed.png?t=J1QB&#39;);background-position:0 0px;background-size:16px;">&nbsp;</span><span id="cke_46_label" class="cke_button_label cke_button__videoembed_label" aria-hidden="false">Вставить видео</span><span id="cke_46_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span><span id="cke_47" class="cke_toolbar cke_toolbar_last" aria-labelledby="cke_47_label" role="toolbar"><span id="cke_47_label" class="cke_voice_label">bar10</span><span class="cke_toolbar_start"></span><span class="cke_toolgroup" role="presentation"><a id="cke_48" class="cke_button cke_button__codesnippet cke_button_off" href="javascript:void(&#39;Вставить сниппет&#39;)" title="Вставить сниппет" tabindex="-1" hidefocus="true" role="button" aria-labelledby="cke_48_label" aria-describedby="cke_48_description" aria-haspopup="false" aria-disabled="false" onkeydown="return CKEDITOR.tools.callFunction(77,event);" onfocus="return CKEDITOR.tools.callFunction(78,event);" onclick="CKEDITOR.tools.callFunction(79,this);return false;"><span class="cke_button_icon cke_button__codesnippet_icon" style="background-image:url(&#39;https://cdn.ckeditor.com/4.11.3/full-all/plugins/icons.png?t=J1QB&#39;);background-position:0 -384px;background-size:auto;">&nbsp;</span><span id="cke_48_label" class="cke_button_label cke_button__codesnippet_label" aria-hidden="false">Вставить сниппет</span><span id="cke_48_description" class="cke_button_label" aria-hidden="false"></span></a></span><span class="cke_toolbar_end"></span></span></span></span><div id="cke_1_contents" class="cke_contents cke_reset" role="presentation" style="height: 200px;"><span id="cke_53" class="cke_voice_label">Нажмите ALT-0 для открытия справки</span><iframe src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/saved_resource.html" frameborder="0" class="cke_wysiwyg_frame cke_reset" style="width: 100%; height: 100%;" title="Визуальный текстовый редактор, comments" aria-describedby="cke_53" tabindex="0" allowtransparency="true"></iframe></div><span id="cke_1_bottom" class="cke_bottom cke_reset_all" role="presentation" style="user-select: none;"><span id="cke_1_resizer" class="cke_resizer cke_resizer_vertical cke_resizer_ltr" title="Перетащите для изменения размера" onmousedown="CKEDITOR.tools.callFunction(1, event)">◢</span><span id="cke_1_path_label" class="cke_voice_label">Путь элементов</span><span id="cke_1_path" class="cke_path" role="group" aria-labelledby="cke_1_path_label"><span class="cke_path_empty">&nbsp;</span></span></span></div></div></div><div class="qua_form_group"><label>Имя<small>*</small></label><input class="qua_con_input_control" name="author" id="author" value="" type="text"></div>
+<div class="qua_form_group"><label>Email<small>*</small></label><input class="qua_con_input_control" name="email" id="email" value="" type="email"></div>
+<p class="form-submit"><input name="submit" type="submit" id="qua_send_button" class="submit" value="Отправить сообщение"> <input type="hidden" name="comment_post_ID" value="63" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p> 
+		<script src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/ckeditor.js.Без названия"></script>
+        <script>
+			CKEDITOR.plugins.addExternal("videoembed","/wp-content/plugins/ark-wysiwyg-comment-editor/plugins/videoembed/plugin.js");
+			hljs.initHighlightingOnLoad();
+			CKEDITOR.replace( "comment");
+			CKEDITOR.config.extraPlugins = "videoembed,codesnippet"; 
+			CKEDITOR.config.codeSnippet_languages = {
+				javascript: "JavaScript",
+				php: "PHP",
+				css: "CSS",
+				html: "HTML",
+				ini: "INI",
+				xhtml: "XHTML",
+				xml: "XML"
+			};
+			CKEDITOR.config.disableNativeSpellChecker = false;
+			CKEDITOR.config.removePlugins = "scayt,contextmenu";
+			CKEDITOR.config.contentsCss = "";
+			/*CKEDITOR.config.skin = "moonocolor";*/
+			/*CKEDITOR.config.allowedContent = true;*/
+			/*CKEDITOR.config.uiColor = "#000000";*/
+			CKEDITOR.config.smiley_columns = 8
+			CKEDITOR.config.smiley_path = "/wp-content/plugins/ark-wysiwyg-comment-editor/plugins/";
+			CKEDITOR.config.smiley_images = ["arkemoticonssk/img/01.gif","arkemoticonssk/img/02.gif","arkemoticonssk/img/03.gif","arkemoticonssk/img/04.gif",
+			"arkemoticonssk/img/05.gif","arkemoticonssk/img/06.gif","arkemoticonssk/img/07.gif","arkemoticonssk/img/08.gif","arkemoticonssk/img/09.gif",
+			"arkemoticonssk/img/10.gif","arkemoticonssk/img/11.gif","arkemoticonssk/img/12.gif","arkemoticonssk/img/13.gif","arkemoticonssk/img/14.gif",
+			"arkemoticonssk/img/15.gif","arkemoticonssk/img/16.gif","arkemoticonssk/img/17.gif","arkemoticonssk/img/18.gif","arkemoticonssk/img/19.gif",
+			"arkemoticonssk/img/20.gif","arkemoticonssk/img/21.gif","arkemoticonssk/img/22.gif"];
+			CKEDITOR.config.toolbar = [{name: "bar1", items: ["Undo","Redo","-", ] }, {name: "bar2", items: ["Bold","Italic","Underline","Strike" ] } ,{name: "bar4", items: ["TextColor","BGColor" ] } ,{name: "bar5", items: ["Link","Unlink","Anchor","-","Image","Smiley","-","HorizontalRule", ] } ,{name: "bar6", items: ["Blockquote","-","Source" ] } ,{name: "bar7", items: ["BulletedList","NumberedList" ] } ,{name: "bar8", items: ["Table", ] }, {name: "barfont", items: ["FontSize","JustifyLeft","JustifyCenter","JustifyRight","JustifyBlock" ] }, {name: "bar9", items: ["VideoEmbed", ] }, {name: "bar10", items: ["CodeSnippet", ] }, ];
+        </script>
+	<div class="inv-recaptcha-holder"><div class="grecaptcha-badge" data-style="inline" style="width: 256px; height: 60px; position: fixed; visibility: hidden; display: block; transition: right 0.3s ease 0s; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/anchor.html" width="256" height="60" role="presentation" name="a-aavztcw3ar9x" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/saved_resource(1).html"></iframe></div>			</form>
+			</div><!-- #respond -->
+							
+</div>
+<!-- /template_name: comments.tpl (Q.) -->
+<!-- ========== /Comments_template (end) ========== -->
+    </div><!-- /.qua_blog_detail_section div -->
+    
+<!-- ========== Sidebar_template (start): ========== -->
+<!-- template_name: sidebar.tpl (Q.Orange): -->
+<!-- template_name: /theme_MAIN/sidebar-quality-oragne.tpl: -->
+
+<div class="col-md-4 qua-si900debar" style="height: 1126px; padding: 0px; border: 0px;"><div style="background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); background-blend-mode: normal; border-block-end: 0px none rgb(51, 51, 51); border-block-start: 0px none rgb(51, 51, 51); border-color: rgb(51, 51, 51); border-radius: 0px; border-style: none; border-width: 0px; border-collapse: separate; border-end-end-radius: 0px; border-end-start-radius: 0px; border-image: none 100% / 1 / 0 stretch; border-inline-end: 0px none rgb(51, 51, 51); border-inline-start: 0px none rgb(51, 51, 51); border-start-end-radius: 0px; border-start-start-radius: 0px; box-shadow: none; outline: rgb(51, 51, 51) none 0px; outline-offset: 0px; overflow-anchor: auto; overflow-clip-margin: 0px; overflow-wrap: normal; overflow: visible; padding-block: 0px; padding: 0px 15px; padding-inline: 15px; box-sizing: border-box; width: 380px; top: 0px;" class="sticky">
+<!-- vardump9: array(1) {
+  [0]=>
+  string(0) ""
+}
+ -->
+<!-- template_name: sidebar.html: -->
+<div class="qua_si900debar_widget">
+<style type="text/css" media="all" id="si_de_ba_r_style">
+#kupit_rek_na_sajte:after{content:"Купить рекламу на сайте"}
+#sisisi_deb_ar_ba_nn_er{width:100%;height:20em;background:url(/i/?f=vi_&s=336x280&ext=gif&hash=900) center center no-repeat}</style><a class="cursor_pointer" href="https://www.chestnoc.com/vseinstr_promo_1" target="_blank" rel="nofollow" data-wpel-link="internal"><div id="sisisi_deb_ar_ba_nn_er"></div></a><br><center><!-- RotaBan.ru Zone Code (240x400) --><div id="rotaban_261443" class="rbrocks rotaban_58a626c164d14a659ff505d78fe77646"></div><!-- END RotaBan.ru Zone Code --></center>
+</div><!-- /.qua_sidebar_widget900 div -->
+<!-- /template_name: sidebar.html -->
+		<!-- template_name: /theme_MAIN/functions/widget/custom-sidebar.tpl: --><div class="qua_si900debar_widget">		<div class="qua_si900debar_widget_title"><h2>Последние отзывы</h2><div class="qua-separator-small spacer"></div></div>		<ul>
+					<li>
+				<a href="https://www.chestnoc.com/qycw" data-wpel-link="internal">Что за номер телефона 495-780-70-70 | Кто звонил с номера +74957807070</a>
+						</li>
+					<li>
+				<a href="https://www.chestnoc.com/jtgp" data-wpel-link="internal">Телефон 499-961-63-47: Что за номер, кто звонил с  номера +74999616347</a>
+						</li>
+					<li>
+				<a href="https://www.chestnoc.com/xxqb" data-wpel-link="internal">Телефон 499-961-63-40: Что за номер, кто звонил с  номера +74999616340</a>
+						</li>
+					<li>
+				<a href="https://www.chestnoc.com/v1ue" data-wpel-link="internal">Что за номер телефона 8-958-596-69-30 | Кто звонил с номера +79585966930</a>
+						</li>
+					<li>
+				<a href="https://www.chestnoc.com/3c89" data-wpel-link="internal">Что за номер телефона 8-903-838-69-47 | Кто звонил с номера +79038386947</a>
+						</li>
+					<li>
+				<a href="https://www.chestnoc.com/z3ub" data-wpel-link="internal">Кто звонил с номера +79643271120 | Что за номер телефона 8-964-327-11-20</a>
+						</li>
+				</ul>
+		</div><!--/ template_name: /theme_MAIN/functions/widget/custom-sidebar.tpl -->		<!-- template_name: /theme_MAIN/functions/widget/custom-sidebar.tpl: --><div class="qua_si900debar_widget"><div class="qua_si900debar_widget_title"><h2>Свежие комментарии</h2><div class="qua-separator-small spacer"></div></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Okna Panorama</span> к записи <a href="https://www.chestnoc.com/otzivy/o_firme_okna_panorama_sankt-peterburg/#comment-364" data-wpel-link="internal">Отзыв о фирме «Окна панорама» (Санкт-Петербург / СПб)</a></li><li class="recentcomments"><span class="comment-author-link">Михаил</span> к записи <a href="https://www.chestnoc.com/otzivy/pro_proksi/#comment-352" data-wpel-link="internal">Отзыв про платные российские прокси: proxy-sale.com, proxyprivat.com, youproxy.ru, socproxy.ru. Какие лучше?</a></li><li class="recentcomments"><span class="comment-author-link">Олег</span> к записи <a href="https://www.chestnoc.com/otzivy_rostelekom/o_kachestve_sotovoj_svyazi_rostelekom/#comment-310" data-wpel-link="internal">Отзывы о качестве сотовой связи Ростелеком</a></li><li class="recentcomments"><span class="comment-author-link">Эклайб</span> к записи <a href="https://www.chestnoc.com/otzivy/o_neporyadochnyh_frilanserah/#comment-309" data-wpel-link="internal">Отзывы о непорядочных фрилансерах (исполнителях) | обманщиках | мошенниках | кидалах</a></li><li class="recentcomments"><span class="comment-author-link">Алена</span> к записи <a href="https://www.chestnoc.com/otzivy/o_kompanii_gazelkin/#comment-308" data-wpel-link="internal">Отзывы о компании ГАЗЕЛЬКИН</a></li></ul></div><!--/ template_name: /theme_MAIN/functions/widget/custom-sidebar.tpl -->
+</div></div>
+<!-- /template_name: /theme_MAIN/sidebar-quality-oragne.tpl --><!-- /template_name: sidebar.tpl (Q.Orange) -->
+<!-- ========== /Sidebar_template (end) ========== -->
+  </div><!-- /sidevar div -->
+</div><!-- /.row .qua_blog_wrapper div -->
+<!-- /template_name: single.tpl -->
+<!-- template_name: footer.tpl: -->
+<div class="qua_footer_area">
+  <div class="container">
+    <div class="col-md-12">
+				© 2011 - 2022 Сайт честных отзывов «Честнок» (бывший trusted-catalog.ru)<br>
+		<a href="https://www.chestnoc.com/" data-wpel-link="internal">Главная </a> | <a href="https://www.chestnoc.com/add/" data-wpel-link="internal">Добавить отзыв</a> | <a href="https://www.chestnoc.com/sotrudnichestvo/" data-wpel-link="internal">Сотрудничество</a> | <a href="https://www.chestnoc.com/feedback/" data-wpel-link="internal">Обратная связь</a>	</div>	
+  </div>
+</div>
+<!-- /Footer Widget Secton -->
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wpa.js.Без названия"></script>
+<script type="text/javascript">
+var wpa_admin_ajax_url = "https://www.chestnoc.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/jquery.rateit.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/core.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/widget.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/progressbar.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/position.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/tooltip.min.js.Без названия"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yasrCommonData = {"postid":"63","ajaxurl":"https:\/\/www.chestnoc.com\/wp-admin\/admin-ajax.php","loggedUser":"","visitorStatsEnabled":"yes","tooltipValues":["\u0443\u0436\u0430\u0441\u043d\u043e","\u043f\u043b\u043e\u0445\u043e","\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e","\u0445\u043e\u0440\u043e\u0448\u043e","\u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e"],"loaderHtml":"<div id=\"loader-visitor-rating\" >\u00a0 \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u0442\u0441\u044f, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435 <img src=\/wp-content\/plugins\/yet-another-stars-rating\/img\/loader.gif title=\"yasr-loader\" alt=\"yasr-loader\"><\/div>"};
+var yasrVisitorsVotesData = {"nonceVisitor":"24be7290b6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/yasr-front.js.Без названия"></script>
+<script type="text/javascript">
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6LcQ9-wZAAAAAOsFMBerhQDGbkdlKRom9DviJsrM', 'size': 'invisible', 'badge' : 'inline',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+</script>
+<script type="text/javascript" async="" defer="" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/api.js.Без названия"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/www.chestnoc.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.chestnoc.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/www.chestnoc.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.chestnoc.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4722"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/jquery.ajaxsearchlite.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/wp-embed.min.js.Без названия"></script>
+<script type="text/javascript" name="footer_global_js">
+jQuery(document).ready(function(){
+/* Ya.Metr: */
+	(function (d, w, c){
+		(w[c] = w[c] || []).push(function(){
+			try{w.yaCounter22916920 = new Ya.Metrika({id:7723798,webvisor:true,clickmap:true,trackLinks:true,accurateTrackBounce:true});} catch(e){}
+                });
+                var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+                if (w.opera == "[object Opera]"){d.addEventListener("DOMContentLoaded", f, false);}else{f(); }
+	})(document, window, "yandex_metrika_callbacks");
+/* /Ya.Metr */
+   jQuery('.href_from_title').click(function(){var new_href = jQuery(this).attr('title'); jQuery(this).attr('href', new_href); jQuery(this).attr('target', '_blank');});
+	jQuery('.href_from_data-href').click(function(){var data_href = jQuery(this).attr('data-href'); jQuery(this).attr('href', data_href); jQuery(this).attr('target', '_blank');});
+	jQuery('#author_default_bio_ajax').html('Этот автор ещё ничего не написал о себе (это можно сделать в <a href="/wp-admin/profile.php" target="_blank">настройках своего профиля</a> (поставив галочку возле &laquo;Enable Customed Biography&raquo; и заполнив поле &laquo;Custom Biographical Information&raquo;), если вы <a href="/wp-login.php?action=register" target="_blank">зарегистрированы на сайте</a> и <a href="/wp-login.php" target="_blank">вошли</a> со своим логином и паролем). Здесь же можно загрузить картинку профиля (аватар).');
+	jQuery('.gallery-icon a').attr('rel', 'ibox');});
+</script>
+<noscript>
+<div><img src="//mc.yandex.ru/watch/24122689" style="position:absolute; left:-9999px;" alt="" /></div>
+<style type="text/css" media="all">
+#author_default_bio_ajax_nojs:after {Content:"Этот автор ещё ничего не написал о себе (это можно сделать в настройках своего профиля (поставив галочку возле «Enable Customed Biography» и заполнив поле «Custom Biographical Information»), если вы зарегистрированы на сайте и вошли со своим логином и паролем). Здесь же можно загрузить картинку профиля (аватар)."}
+</style>
+</noscript>
+<!-- =============== iBox ============ -->
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/ibox.js.Без названия" async="async"></script>
+<link rel="stylesheet" href="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/lightbox.css" type="text/css" media="screen">
+<!-- =============== /iBox ============ -->
+
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/isotope.pkgd.min.js.Без названия"></script>
+<script type="text/javascript" src="./Список злостных SMS-спамеров. Пожаловаться на СМС-спам!_files/pgafu-public.js.Без названия" defer="defer"></script>
+<script type="text/javascript" id="footer_global_script_defer" defer="defer">
+jQuery(document).ready(function(){
+	jQuery('.onclick_show_original').click(function(){ var original_text = jQuery(this).attr('data-text'); jQuery(this).text(original_text); });
+	/* ===== /stycky_div/stycky_div.js: ===== */
+	(function(){ // A script to make left sidebar sticky:
+	var a = document.querySelector('.qua-si900debar'), b = null, P = 0;
+	window.addEventListener('scroll', Ascroll, false);
+	document.body.addEventListener('scroll', Ascroll, false);
+	function Ascroll(){
+	if(b == null){
+    var Sa = getComputedStyle(a, ''), s = '';
+    for(var i = 0; i < Sa.length; i++){
+      if(Sa[i].indexOf('overflow') == 0 || Sa[i].indexOf('padding') == 0 || Sa[i].indexOf('border') == 0 || Sa[i].indexOf('outline') == 0 || Sa[i].indexOf('box-shadow') == 0 || Sa[i].indexOf('background')==0){
+        s += Sa[i] + ': ' +Sa.getPropertyValue(Sa[i]) + '; '}
+    }
+    b = document.createElement('div');b.style.cssText = s + ' box-sizing: border-box; width: ' + a.offsetWidth + 'px;';a.insertBefore(b, a.firstChild);
+    var l = a.childNodes.length;for(var i = 1; i < l; i++){ b.appendChild(a.childNodes[1]);}
+    a.style.height = b.getBoundingClientRect().height + 'px'; a.style.padding = '0'; a.style.border = '0';
+  }
+  var Ra = a.getBoundingClientRect(),
+      R = Math.round(Ra.top + b.getBoundingClientRect().height - document.querySelector(/*'#article'*/ '.qua_blog_post_content').getBoundingClientRect().bottom);  // селектор блока, при достижении нижнего края которого нужно открепить прилипающий элемент
+  if((Ra.top - P) <= 0){
+    if((Ra.top - P) <= R){b.className = 'stop'; b.style.top = - R +'px';}else{b.className = 'sticky'; b.style.top = P + 'px';}
+  }else{b.className = '';b.style.top = '';}
+  window.addEventListener('resize', function(){a.children[0].style.width = getComputedStyle(a, '').width}, false);
+}
+})()
+	/* ===== END /stycky_div/stycky_div.js ===== */
+});
+</script><!-- /template_name: footer.tpl -->
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 1/369 objects using disk
+Database Caching 40/188 queries in 0.086 seconds using disk
+
+Served from: www.chestnoc.com @ 2022-01-05 19:56:33 by W3 Total Cache
+--><div id="ajaxsearchlitesettings1" class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1" style="animation-duration: 300ms; display: block; top: 120px; left: 1297.5px;">
+    <form name="options" autocomplete="off">
+
+        
+                <fieldset class="asl_sett_scroll">
+            <legend style="display: none;">Generic selectors</legend>
+            <div class="asl_option_inner option hiddend">
+                <input type="hidden" name="qtranslate_lang" id="qtranslate_lang" value="0">
+            </div>
+
+	        
+            
+            <div class="asl_option">
+                <div class="asl_option_inner option">
+                    <input type="checkbox" value="checked" id="set_exactonly1" title="Только точные совпадения" name="set_exactonly">
+                    <label for="set_exactonly1">Только точные совпадения</label>
+                </div>
+                <div class="asl_option_label label">
+                    Только точные совпадения                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner option">
+                    <input type="checkbox" value="None" id="set_intitle1" title="Искать в заголовке" name="set_intitle" checked="checked">
+                    <label for="set_intitle1">Искать в заголовке</label>
+                </div>
+                <div class="asl_option_label label">
+                    Искать в заголовке                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner option">
+                    <input type="checkbox" value="None" id="set_incontent1" title="Искать в содержимом страницы" name="set_incontent" checked="checked">
+                    <label for="set_incontent1">Искать в содержимом страницы</label>
+                </div>
+                <div class="asl_option_label label">
+                    Искать в содержимом страницы                </div>
+            </div>
+            <div class="asl_option_inner option hiddend">
+                <input type="checkbox" value="None" id="set_inexcerpt1" title="Search in excerpt" name="set_inexcerpt" checked="checked">
+                <label for="set_inexcerpt1">Search in excerpt</label>
+            </div>
+
+            <div class="asl_option">
+                <div class="asl_option_inner option">
+                    <input type="checkbox" value="None" id="set_inposts1" title="Искать в отзывах  новостях и т д " name="set_inposts" checked="checked">
+                    <label for="set_inposts1">Искать в отзывах  новостях и т д </label>
+                </div>
+                <div class="asl_option_label label">
+                    Искать в отзывах, новостях и т.д.                </div>
+            </div>
+            <div class="asl_option asl-o-last">
+                <div class="asl_option_inner option">
+                    <input type="checkbox" value="None" id="set_inpages1" title="Искать в служебных страницах" name="set_inpages" checked="checked">
+                    <label for="set_inpages1">Искать в служебных страницах</label>
+                </div>
+                <div class="asl_option_label label">
+                    Искать в служебных страницах                </div>
+            </div>
+                    </fieldset>
+                
+        <fieldset>
+                            <legend>Сортировать по категориям</legend>
+                        <div class="categoryfilter asl_sett_scroll">
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="101" id="1categoryset_101" title="email спам" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_101">email спам</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            email спам                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="22" id="1categoryset_22" title="sms спам" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_22">sms спам</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            sms спам                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="64" id="1categoryset_64" title="Кто звонил  что за номер " name="categoryset[]" checked="checked">
+                            <label for="1categoryset_64">Кто звонил  что за номер </label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Кто звонил (что за номер)                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="56" id="1categoryset_56" title="Купоны" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_56">Купоны</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Купоны                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="58" id="1categoryset_58" title="Непроверенные отзывы" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_58">Непроверенные отзывы</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Непроверенные отзывы                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="109" id="1categoryset_109" title="Одежда  мода  гардероб" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_109">Одежда  мода  гардероб</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Одежда, мода, гардероб                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="2" id="1categoryset_2" title="Отзывы" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_2">Отзывы</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="107" id="1categoryset_107" title="Отзывы о компании ГАЗЕЛЬКИН" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_107">Отзывы о компании ГАЗЕЛЬКИН</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы о компании ГАЗЕЛЬКИН                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="113" id="1categoryset_113" title="Отзывы о пищевых продуктах и их производителях" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_113">Отзывы о пищевых продуктах и их производителях</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы о пищевых продуктах и их производителях                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="115" id="1categoryset_115" title="Отзывы про аксессуары для гаджетов" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_115">Отзывы про аксессуары для гаджетов</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы про аксессуары для гаджетов                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="100" id="1categoryset_100" title="Отзывы про Ростелеком" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_100">Отзывы про Ростелеком</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы про Ростелеком                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="114" id="1categoryset_114" title="Отзывы про стройматериалы" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_114">Отзывы про стройматериалы</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы про стройматериалы                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="112" id="1categoryset_112" title="Отзывы про хостинг Timeweb  Таймвэб " name="categoryset[]" checked="checked">
+                            <label for="1categoryset_112">Отзывы про хостинг Timeweb  Таймвэб </label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Отзывы про хостинг Timeweb (Таймвэб)                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="25" id="1categoryset_25" title="Программное обеспечение" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_25">Программное обеспечение</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Программное обеспечение                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="28" id="1categoryset_28" title="Советы" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_28">Советы</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Советы                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="89" id="1categoryset_89" title="Статьи" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_89">Статьи</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Статьи                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="108" id="1categoryset_108" title="Статьи для женщин" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_108">Статьи для женщин</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Статьи для женщин                        </div>
+                    </div>
+                                    <div class="asl_option asl-o-last">
+                        <div class="asl_option_inner option">
+                            <input type="checkbox" value="110" id="1categoryset_110" title="Статьи для мужчин" name="categoryset[]" checked="checked">
+                            <label for="1categoryset_110">Статьи для мужчин</label>
+                        </div>
+                        <div class="asl_option_label label">
+                            Статьи для мужчин                        </div>
+                    </div>
+                
+            </div>
+        </fieldset>
+            </form>
+</div><div id="ajaxsearchliteres1" class="vertical wpdreams_asl_results asl_w asl_r asl_r_1" style="animation-duration: 300ms; opacity: 0;">
+
+    
+    <div class="results mCustScr _mCSap_1 mCS_no_scrollbar"><div id="mCSBap_1" class="mCustomScrollBox mCS-light mCSBap_vertical mCSBap_inside" style="max-height: 0px;" tabindex="0"><div id="mCSBap_1_container" class="mCSBap_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+
+        
+            <div class="resdrg">
+            </div>
+
+        
+    </div><div id="mCSBap_1_scrollbar_vertical" class="mCSBap_scrollTools mCSBap_1_scrollbar mCS-light mCSBap_scrollTools_vertical" style="display: none;"><a href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#" class="mCSBap_buttonUp">Scroll up the results</a><div class="mCSBap_draggerContainer"><div id="mCSBap_1_dragger_vertical" class="mCSBap_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSBap_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSBap_draggerRail"></div></div><a href="https://www.chestnoc.com/sms-spam/spisok-zlostnyh-sms-spamerov/#" class="mCSBap_buttonDown">Scroll down the results</a></div></div></div>
+
+    
+                    <p class="showmore">
+            <a>Больше результатов...</a>
+        </p>
+        
+</div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div class="cke_screen_reader_only cke_copyformatting_notification"><div aria-live="polite"></div></div><div id="ibox"><div id="ibox_overlay" style="display: none; opacity: 0; background-image: url(&quot;/js/ibox/images/bg.png&quot;); position: absolute; top: 0px; left: 0px; width: 100%;"></div><div id="ibox_loading" style="display: none;">Loading...</div><div id="ibox_wrapper" style="position: absolute; top: 0px; left: 0px; display: none;"><div id="ibox_content" style="overflow: auto;"></div><div id="ibox_footer_wrapper"><a href="javascript:void(0)">Close</a><div id="ibox_footer">&nbsp;</div></div></div></div></body></html>

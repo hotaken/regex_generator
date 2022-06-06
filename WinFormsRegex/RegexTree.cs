@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RegexGenerator
+namespace WinFormsRegex
 {
     class RegexNode
     {
@@ -45,7 +45,7 @@ namespace RegexGenerator
         {
             depth = curh;
             h = Math.Max(h, depth);
-            
+
             string restring = template;
             if (isLeaf) return restring;
 

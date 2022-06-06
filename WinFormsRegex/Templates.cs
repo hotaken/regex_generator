@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace RegexGenerator
+namespace WinFormsRegex
 {
     static class LeafTemplates
     {
@@ -15,7 +15,7 @@ namespace RegexGenerator
         //private static List<string> diapasonT = new List<string> { "a-z", "A-Z", "a-zA-z" };
         //private static List<string> letterT = new List<string>();
         //private static List<char> symbolT = new List<char>(@"!@#$%^&*()_+|\-={}[]:"";'<>?,./~".ToCharArray());
-        private static List<char> symbolT = new List<char>(@"+()".ToCharArray());
+        private static List<char> symbolT = new List<char>(@"+()-".ToCharArray());
 
         static LeafTemplates()
         {
@@ -82,7 +82,7 @@ namespace RegexGenerator
 
         private static List<string> concatT = new List<string> { "%%" };
         private static List<string> diapasonT = new List<string> { "[%]", "[^%]" };
-        private static List<string> quantifierT = new List<string> { "%?", "%+" };
+        private static List<string> quantifierT = new List<string> { "(%)?", "(%)+" };
         //private static List<string> quantifierT = new List<string> { "%?", "%+", "%*?", "%{%,%}" }; // for 4th - special processing(2 and 3 %s - must be numbers)
         //private static List<string> lookTokensT = new List<string> { "(?=%)", "(?!%)", "(?<=%)", "(?<!%)" }; // +ahead -ahead +behind -behind
 
@@ -108,11 +108,11 @@ namespace RegexGenerator
             int node_types_count = 4;
             int node_type = rnd.Next(node_types_count - 1) + 1;
             string node_template;
-            switch(node_type)
+            switch (node_type)
             {
-                case 1: node_template = getRandomConcat();break;
-                case 2: node_template = getRandomDiapason();break;
-                case 3: node_template = getRandomQuantifier();break;
+                case 1: node_template = getRandomConcat(); break;
+                case 2: node_template = getRandomDiapason(); break;
+                case 3: node_template = getRandomQuantifier(); break;
                 //case 4: node_template = getRandomLookTokensT();break;
                 default: node_template = getRandomConcat(); break;
             }
